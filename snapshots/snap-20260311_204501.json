@@ -1,0 +1,4094 @@
+{
+  "snapshot_id": "snap-20260311_204501",
+  "created_at": 1773261902.420611,
+  "created_at_utc": "2026-03-11T20:45:03Z",
+  "label": "autosave-15min",
+  "encrypted_bundle": "/opt/cango-rollback/external/snap-20260311_204501.tar.gz.gpg",
+  "files": [
+    {
+      "path": "CREATED_AT_UTC",
+      "sha256": "8a2a6a5c815b175ebff9a83375fdae6ad662da3264b1b75ed91e82e112bf5283",
+      "size": 21
+    },
+    {
+      "path": "LABEL",
+      "sha256": "bfc5bcb7b671c21e60f6b00bf3fb87290bc1bb959ccc1882231e15605d9e9514",
+      "size": 15
+    },
+    {
+      "path": "SNAPSHOT_ID",
+      "sha256": "e18f4188d3ed0918807304e81cc7fed4d60446764658732436eb6f985338218e",
+      "size": 21
+    },
+    {
+      "path": "docker-containers.json",
+      "sha256": "a1be31d8540a504f1c7d6b6c14ef582f7a95368356f93c07f0888f452c2283b5",
+      "size": 5743
+    },
+    {
+      "path": "docker-containers.txt",
+      "sha256": "81399cc1bdeee9c9dfdd9f21cbc71ffd1f17e1945f91d01b9e35a778ed2ff3ce",
+      "size": 240
+    },
+    {
+      "path": "docker-images.txt",
+      "sha256": "5faf3aa3c59c6622927b2f593d4e35ff92e441c6ae936b722578b58177305458",
+      "size": 209
+    },
+    {
+      "path": "docker-networks.txt",
+      "sha256": "68a8851a2296406dc56a87336be8888908d20fbfedfb4ef387c1b986426057ab",
+      "size": 144
+    },
+    {
+      "path": "opt/cango-empire-website/, d)\nPY",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "opt/cango-empire-website/.cursor/rules/atomic-rollback.mdc",
+      "sha256": "24b12c26e1049cf91671e46d308349a75d46bbfcd2cc46506d022a2e92a7a11b",
+      "size": 1900
+    },
+    {
+      "path": "opt/cango-empire-website/.cursor/rules/cango-orange-tone.mdc",
+      "sha256": "0d756f093158c34c37bc83f319b6c23e673f5f5111d7616dcdf12a424268276b",
+      "size": 487
+    },
+    {
+      "path": "opt/cango-empire-website/.cursor/rules/daily-change-report.mdc",
+      "sha256": "29f884d2501a915315029f504fdcaae00c44faebabda38112928f35893d22bf7",
+      "size": 2539
+    },
+    {
+      "path": "opt/cango-empire-website/.cursor/rules/deploy-nach-aenderungen.mdc",
+      "sha256": "b9a1b4969a5b0d2526fb09e85fcfbabdb8c533ebdf0e02fdc2a14db5f0a80075",
+      "size": 676
+    },
+    {
+      "path": "opt/cango-empire-website/.cursor/rules/golden-state-regeln.mdc",
+      "sha256": "1b691e4afdf7010fcf8aef5b3cbd135d5dea875f0a0774383ec480b22920682a",
+      "size": 1453
+    },
+    {
+      "path": "opt/cango-empire-website/.cursor/rules/headline-stil.mdc",
+      "sha256": "e694b04813760b65e68ac7f8d09c79640b70a7cd0bf0a5a3bf9828b8c5ed5ea1",
+      "size": 1441
+    },
+    {
+      "path": "opt/cango-empire-website/.cursor/rules/marktplatz-unterseiten-sperren.mdc",
+      "sha256": "ef861e6e03a27dae70697fbe77aecf750d976f3dde9ba90d90411838f1ddd862",
+      "size": 1195
+    },
+    {
+      "path": "opt/cango-empire-website/.cursor/rules/online-inkognito-gleich.mdc",
+      "sha256": "89c6dbd50b0b42ccf682ffbb7c1a635705fc32b8130f62e3df48b4ca166360da",
+      "size": 2002
+    },
+    {
+      "path": "opt/cango-empire-website/.cursor/rules/startseite-schuetzen.mdc",
+      "sha256": "35b983362c57a2e6007cdc704c7c2b99f11f8a919aa6cc2757dc404a49671d9a",
+      "size": 943
+    },
+    {
+      "path": "opt/cango-empire-website/.dockerignore",
+      "sha256": "d61910b6ca3bd24e3c3ecf0100753541bf6d729da40fb0031b0c365322e2e6ff",
+      "size": 103
+    },
+    {
+      "path": "opt/cango-empire-website/.gitignore",
+      "sha256": "f027a8b39f741ae7de4fe4fe05b8db2edd693261342870cf33d08582c51066fa",
+      "size": 289
+    },
+    {
+      "path": "opt/cango-empire-website/BERECHTIGUNGEN_FIX.md",
+      "sha256": "55d7cc39d53a1add55f0544ae3c0bbe061f8eae3ea2f5ae3f8629e2713e14582",
+      "size": 2748
+    },
+    {
+      "path": "opt/cango-empire-website/BILDER_FIX_ANLEITUNG.md",
+      "sha256": "3f2e6ccf628b3eda4b717452abad4c815680130e9dd62d6fbff07a38dde6089f",
+      "size": 3228
+    },
+    {
+      "path": "opt/cango-empire-website/BUTTONS_STATUS.md",
+      "sha256": "c4fae83f9ab269bfe5eae138997e453952f4e955a4e93bd93282b860a32c5313",
+      "size": 1426
+    },
+    {
+      "path": "opt/cango-empire-website/CLOUDPANEL_ANLEITUNG.md",
+      "sha256": "84fe2db0fb8cf749a6cfa46352ffcdf817686318d0cab1e8bf42f176fc3a98fd",
+      "size": 2755
+    },
+    {
+      "path": "opt/cango-empire-website/CLOUDPANEL_ANLEITUNG_DOCUMENT_ROOT.md",
+      "sha256": "33beb767dbcb7ce0cbf3b777b4b3018980a0db2a7107f844f2a14ebbedc0fc9b",
+      "size": 1562
+    },
+    {
+      "path": "opt/cango-empire-website/CLOUDPANEL_LOGIN_ANLEITUNG.md",
+      "sha256": "b7d2922152bef019ae6aabd1bd6b0be785d3df1bcc3ef1c2cd7b2254f17ef2ff",
+      "size": 3400
+    },
+    {
+      "path": "opt/cango-empire-website/DOMAIN_404_FIX.md",
+      "sha256": "8c9416aaefd7715cafc10c07edd43a7088e6da03ae9093b69ad55af20b7a16cf",
+      "size": 2436
+    },
+    {
+      "path": "opt/cango-empire-website/DOMAIN_BINDUNG_ANLEITUNG.md",
+      "sha256": "7faa68389ac9c5e141263861a0b6b59b48a7029115164740f99d57deb236fa5a",
+      "size": 2731
+    },
+    {
+      "path": "opt/cango-empire-website/DOMAIN_KONFIGURATION.md",
+      "sha256": "31005d972e3c69743b6698b5f04eb240308173fc243d4b384853b11965ffd69d",
+      "size": 2560
+    },
+    {
+      "path": "opt/cango-empire-website/FIX_CLOUDPANEL_ISSUES.md",
+      "sha256": "f47f2d927b08ba02fc8d135466ad25d02a0b00f20f743a84bde8967a7505b5e6",
+      "size": 1548
+    },
+    {
+      "path": "opt/cango-empire-website/FOUNDER_IMAGE_UPLOAD.md",
+      "sha256": "f3ce082a486a1635a3dcccd58bc943648763d7eefb8ecce3f99ad7c2fca23fd3",
+      "size": 1826
+    },
+    {
+      "path": "opt/cango-empire-website/KONTAKT_UPLOAD_ANLEITUNG.md",
+      "sha256": "69ff871496d03fcf514030d38a27243d95025b93c2e6c211cbfb4ca70675dba7",
+      "size": 1473
+    },
+    {
+      "path": "opt/cango-empire-website/KONTAKT_UPLOAD_KOMPLETT.md",
+      "sha256": "39e05beca1add4438c84d0c131d473f74cad01c30aaed620b90ff623c7f7b939",
+      "size": 5935
+    },
+    {
+      "path": "opt/cango-empire-website/KOPIERE_DATEIEN_ANLEITUNG.md",
+      "sha256": "6e7f384863454929b8f28a60a66af6b357d60c7028641dde3d0806db1b3b709e",
+      "size": 3217
+    },
+    {
+      "path": "opt/cango-empire-website/MARKTPLATZ_TOOLS.md",
+      "sha256": "342448ba755963393cf801b81a37f4b107e5fdf598a9e57f8f31c81c540db473",
+      "size": 6382
+    },
+    {
+      "path": "opt/cango-empire-website/NANO_SPEICHERN_ANLEITUNG.md",
+      "sha256": "15bd3a7363b28da7fe93e69485c96d057c87cfcd8c509ee88fbeddac69361bd8",
+      "size": 2039
+    },
+    {
+      "path": "opt/cango-empire-website/README.md",
+      "sha256": "9620270d3fe76cb4ccf586e39f56fdcb058318c53eaa9695c476c415026d4116",
+      "size": 1817
+    },
+    {
+      "path": "opt/cango-empire-website/SSH_UPLOAD_BEFEHLE.md",
+      "sha256": "9b278cc478e059106a4a68e6e979f787567cee88b48c993b9362c0ca7aa8190d",
+      "size": 3713
+    },
+    {
+      "path": "opt/cango-empire-website/STATUS_UND_ANLEITUNG.md",
+      "sha256": "7096f4bc8b1439babf84644b323178ff196ffe2a26f074589e515c647ad25788",
+      "size": 2968
+    },
+    {
+      "path": "opt/cango-empire-website/TERMINAL_ANLEITUNG.md",
+      "sha256": "40bc4328573be0822da14696e1c9151c74b825ee50df119c83af96998d28e2cb",
+      "size": 1883
+    },
+    {
+      "path": "opt/cango-empire-website/TERMINAL_UPLOAD_BEFEHLE.md",
+      "sha256": "d19f2c87ea1520976fe8ccaa096980be5f40b19647340481bc10e44e59793b07",
+      "size": 3808
+    },
+    {
+      "path": "opt/cango-empire-website/TOOLS_EMPIRE_UNIVERSAL.md",
+      "sha256": "161cea6698251deda17b899b3936376a564c90e14ac5b43abbe4203025a6a20b",
+      "size": 8031
+    },
+    {
+      "path": "opt/cango-empire-website/TOOLS_UEBERSICHT.md",
+      "sha256": "9049c406468c538f0e1f40465edcd3e96cb51a3f329a3055b4477829102f8594",
+      "size": 10023
+    },
+    {
+      "path": "opt/cango-empire-website/UPLOAD_ANLEITUNG.md",
+      "sha256": "d7dac09ecb38378e560630cd8b443c1805890dbc90f37e5f3557143067b2d9ad",
+      "size": 2145
+    },
+    {
+      "path": "opt/cango-empire-website/backups/CanGo-Empire-Webseite-Stand-2026-02-26.zip",
+      "sha256": "5339192427ba7ebc06bfe514b6a309c7037098df5e95c08927cfab14ca301048",
+      "size": 3177624
+    },
+    {
+      "path": "opt/cango-empire-website/cleanup-old-changes.sh",
+      "sha256": "91538b504a5c361bb44a79e0bca1f99f8c8f574e681f08f4304edd5d48fb1541",
+      "size": 5447
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/ALLE_CODES_DOKUMENTATION.md",
+      "sha256": "67b4814d64131c36d4d02f5a64150896f6741a9b452a83fbce8af026a66c1df7",
+      "size": 10260
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/MARKTPLATZ_TOOLS.md",
+      "sha256": "342448ba755963393cf801b81a37f4b107e5fdf598a9e57f8f31c81c540db473",
+      "size": 6382
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/README.md",
+      "sha256": "1eba9fc299b4f67ddee88d88e75d21ea78f1bb9fce9047078c7313914c42ed43",
+      "size": 1881
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/TOOLS_EMPIRE_UNIVERSAL.md",
+      "sha256": "161cea6698251deda17b899b3936376a564c90e14ac5b43abbe4203025a6a20b",
+      "size": 8031
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/TOOLS_UEBERSICHT.md",
+      "sha256": "9049c406468c538f0e1f40465edcd3e96cb51a3f329a3055b4477829102f8594",
+      "size": 10023
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/backup_all_current_workflows.py",
+      "sha256": "2b7c8a4a6e77f208029a37fabe652227d2d14394892797c1d9376357b45a3c8b",
+      "size": 6151
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/export_current_workflows.py",
+      "sha256": "b089b613083e260b11db3153fe2e10e4f399a8fe6ddde368689179f13eab5092",
+      "size": 4883
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/import_all_workflows.py",
+      "sha256": "a41902c3b341eedea457107780a8a4ff82e425a5fd5b3ae36336fd2b89e06c91",
+      "size": 5683
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/import_workflows_api_fixed.py",
+      "sha256": "b696633bddc48fcb697adcd8579708cfbf52794ddb09c4b11890bfc9ff3f0b19",
+      "size": 2368
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/import_workflows_browser.py",
+      "sha256": "8568bbcad0bb70b8d755784c4f5c953823d726c0fdc398355728e1b9bc4f5fdd",
+      "size": 3566
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/import_workflows_final.py",
+      "sha256": "339710914b8f53473fe01c84643c5c62531afaf48809db800037ac34c5d3d570",
+      "size": 5994
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/import_workflows_selenium.py",
+      "sha256": "4d45d74d0fc3caba3e2fe0c4ef4f58cbe667875e2d453f20a486cbe697d46089",
+      "size": 3803
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/import_workflows_simple.py",
+      "sha256": "06737546316678e57226cc1b2f8dc7be566dc8e0172e0381ff14f11d7f7a549e",
+      "size": 4290
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/marktplatz_tools.json",
+      "sha256": "4ea9409fcbdd942896324d3d9cac82d0a71643f2d8ec317c591a1490b52b345e",
+      "size": 3969
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/restore_missing_workflows_safe.py",
+      "sha256": "5ed1d31c91017f706f941d175a9c505defda8e5a823069ff216b99f271a84ec2",
+      "size": 4481
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/upload_missing_cango_workflows.py",
+      "sha256": "677e45255e682f28f348965b61f35c7f505e4b91a7479d855e198a576db4d861",
+      "size": 9267
+    },
+    {
+      "path": "opt/cango-empire-website/codes_archive/upload_missing_workflows.py",
+      "sha256": "14424de92e126566d2984e02ace7adad888b259cff7d4594d5e5686641caf6a3",
+      "size": 7220
+    },
+    {
+      "path": "opt/cango-empire-website/config/.htaccess",
+      "sha256": "b15b9c0c8543cb206e654bcd19d77cef33840bb60084080c7a26cf4f27db8fd7",
+      "size": 26
+    },
+    {
+      "path": "opt/cango-empire-website/config/.htaccess-SIMPLE",
+      "sha256": "61e53b05c102108695217f235f8176ff2dbc3ee3ce098988aba3ab2b7c135046",
+      "size": 44
+    },
+    {
+      "path": "opt/cango-empire-website/config/nginx-cango-empire.conf",
+      "sha256": "69bb92b8c1b5617d610ea36e8045751eff6b399dbc14f5443dc9802eafb85720",
+      "size": 7476
+    },
+    {
+      "path": "opt/cango-empire-website/configs/cron-config.txt",
+      "sha256": "6c64f5a51a101ff409cb0badbccdf5d0182a7869d7570904cdca8e2231ff66cd",
+      "size": 1021
+    },
+    {
+      "path": "opt/cango-empire-website/configs/gpg-setup.sh",
+      "sha256": "d0cc71c4e7acdc211139bc7ee5c4e36fd95c844cb074bad1e2722a2fd22ee584",
+      "size": 1157
+    },
+    {
+      "path": "opt/cango-empire-website/configs/zwiebel-rollback.env.example",
+      "sha256": "25b861c110849cddbd196b754918f44f17ed848ea7e7421d78bff6b1d0c5853b",
+      "size": 1123
+    },
+    {
+      "path": "opt/cango-empire-website/data/database.sqlite.backup",
+      "sha256": "b2d51d26ded5a3ac9c7bb9fc0bc90b8ec0d6e75ac270488217fd5916f34f4330",
+      "size": 106496
+    },
+    {
+      "path": "opt/cango-empire-website/data/nginx/proxy_host/5.conf.backup-chaos",
+      "sha256": "4c257db24638144f2dd48cd2c6791275adeb9b2d85dadeab2cd7b20431115c8c",
+      "size": 1215
+    },
+    {
+      "path": "opt/cango-empire-website/deploy-offline.sh",
+      "sha256": "6cd4626e795b188c8cfb95d03946e07906f3e7ca2d0753cfa694600b6a3f3614",
+      "size": 1318
+    },
+    {
+      "path": "opt/cango-empire-website/deploy-to-server.sh",
+      "sha256": "04500eebb36b8ddadd259519028368b3ebb1de7c3c737c4eb56763feeb837e52",
+      "size": 4773
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/activate_correct_htmls.py",
+      "sha256": "5ab5fa97c6a6920208e0e3eecc9a580f08a7608b203916c4eda8821905416c41",
+      "size": 7171
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/check_docroot_config.py",
+      "sha256": "6a488d26d9ce645e943df19eca5b72e5ba27766b819156c251c6f6cc6a5e5c4c",
+      "size": 5140
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/check_server_version.py",
+      "sha256": "dea0db6ff02e4664a4792cf8f5e87c4c805d3a2964702b6166c662ead3cb5e90",
+      "size": 4530
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/cleanup_and_create_new_path.py",
+      "sha256": "ac09ba270449495505ece255d939edc499c3a470200d1861a6cd372d71d4575a",
+      "size": 5150
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/cleanup_server_duplicates.py",
+      "sha256": "953c325f93056f9a9636b1ad3cb62111f099d4a63985434f3a78be48809a1ae7",
+      "size": 6277
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/find_and_cleanup_duplicates.py",
+      "sha256": "7526c9237dc7c975d0247d218e18e6e0a46ee0faf24cd80d8fcf59b6ba55bc47",
+      "size": 6402
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/fix_body_footer_visible_final.py",
+      "sha256": "49fbc142e21e3863832767a001b2e341a9242c901d58d81204247949eb097558",
+      "size": 7445
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/fix_display_none_final.py",
+      "sha256": "e174a83fc66eef8e13e37c50482cb7ba08de27f3b20ff450c40f0a7ae87cd54d",
+      "size": 5674
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/fix_global_all_pages.py",
+      "sha256": "03ef536239c478961b7ce9e8cf4fff9606f050f7796c269620701182be733190",
+      "size": 8390
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/fix_inkognito_final.py",
+      "sha256": "afda892ad50f318f0c7d38941ff7475770bede29e69bf5b67985918c054b6c00",
+      "size": 7911
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/fix_layout_sections_vertical.py",
+      "sha256": "9316aea96e60d71397699694484f3ead21b2c7b1c219a53e339f4eab6f15da00",
+      "size": 7161
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/fix_permissions_docroot.py",
+      "sha256": "914075532e3e406da144133dac750098cbef9f7daaca8d9b823e3a21213186b3",
+      "size": 4279
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/fix_scrolling_aggressive.py",
+      "sha256": "0d4386b6f7fe1afaea68846005e4dadd805e8a9c5c626b463e682af92b7c7057",
+      "size": 7907
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/fix_scrolling_final.py",
+      "sha256": "337ce222dc578cb9c332717521742e0f6174e0b5a4e640d3cb52ecc1e20f92e0",
+      "size": 8456
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/fix_scrolling_nav_final.py",
+      "sha256": "a2a68030a04a2052ef8fbbf53b46d352d3d5a69937fdc38f9baf2a56d83bbb0a",
+      "size": 8217
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/fix_sections_visible.py",
+      "sha256": "b3ead03776dfd18b3bf2dcf13e83c064f5852f64e3c8b25de38e056a5b019c06",
+      "size": 6252
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/fix_ueber_uns_black_screen.py",
+      "sha256": "de971f0c69cf7e144753c65f5bdd00c8263b09995f13bebe660421208e076c12",
+      "size": 6303
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/fix_ueber_uns_complete.py",
+      "sha256": "2e2d2a4499a8671bac8a70782cb9b0b3909837ca3231f1a117323a414ebe160f",
+      "size": 5663
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/fix_ueber_uns_scrolling.py",
+      "sha256": "70ef2b896da787c0430cfc88dec53a69c53edad7d45a215b50703d1d61d36450",
+      "size": 3880
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/sync_to_hostinger_docroot.py",
+      "sha256": "8298e5a04d24a995703f611accf31628196646b05ca68d6243dace167c3cdc3a",
+      "size": 7773
+    },
+    {
+      "path": "opt/cango-empire-website/deployment/upload_to_files_directory.py",
+      "sha256": "b8bd1306df006c4fc6f98d54dfb020c741f16c985d4907455c526a770c5e284c",
+      "size": 5774
+    },
+    {
+      "path": "opt/cango-empire-website/docker/Dockerfile",
+      "sha256": "776fe64fbe6498f78b405d2c90a76f211baf01ca4ad2eb87ffbf2cc9f46f602e",
+      "size": 250
+    },
+    {
+      "path": "opt/cango-empire-website/docker/n8n-zwiebel-runner.Dockerfile",
+      "sha256": "9e913a4add843a352521cf94d8fbfb35ae549cc1220fbbd5bb8d27b590c51f4f",
+      "size": 170
+    },
+    {
+      "path": "opt/cango-empire-website/docker/nginx.conf",
+      "sha256": "35f3156a95c233191d203471f641c48b8de9994866cfd19918104baec4c7090e",
+      "size": 846
+    },
+    {
+      "path": "opt/cango-empire-website/docker-compose.yml",
+      "sha256": "89e024f332c41a3101f14cccedd32def519b683202c00db89b5a41a94159002c",
+      "size": 643
+    },
+    {
+      "path": "opt/cango-empire-website/docs/00-INDEX.md",
+      "sha256": "56ab476be78b3a49793316a331639f1339c6a492a1eca650cccc1f43983e6a48",
+      "size": 1117
+    },
+    {
+      "path": "opt/cango-empire-website/docs/404-ANALYSE.md",
+      "sha256": "905d522558785619958cb967a41c9b9a5312cbaf60da42f620d49b5a4655c13a",
+      "size": 1277
+    },
+    {
+      "path": "opt/cango-empire-website/docs/404-STATUS-UPDATE.md",
+      "sha256": "3980d24b8e090ee7c0ed65b380fd32b18248c746210c3d72dfd4147ccfa33415",
+      "size": 879
+    },
+    {
+      "path": "opt/cango-empire-website/docs/AI-TROUBLESHOOTER-FIX.md",
+      "sha256": "15eaedc3d3e8ed40150984251a99960c1446371500acd46f8cc37bbf793d08f5",
+      "size": 1848
+    },
+    {
+      "path": "opt/cango-empire-website/docs/BRAND-STRATEGIE.md",
+      "sha256": "25baa504c1637b51e9de86389ff636bb92c7e9eb0bb00e00229158267eab2542",
+      "size": 617
+    },
+    {
+      "path": "opt/cango-empire-website/docs/CLAUDE_CODE_INSTALLATION_HOSTINGER.md",
+      "sha256": "ee60929a684fab2f1a21cb3810f7ebc3ce4924a1e64fca45b5fdffa0126485bb",
+      "size": 5465
+    },
+    {
+      "path": "opt/cango-empire-website/docs/DEPLOYMENT-CANGO-N8N.md",
+      "sha256": "b8eb3c63438086fc38d91313def1fe5f136b211be90abeeada0386a0280d770d",
+      "size": 5573
+    },
+    {
+      "path": "opt/cango-empire-website/docs/DOCKER-DEPLOYMENT.md",
+      "sha256": "b014447bd603a5d99bd8a07dfdf3ce77114bd367d0c43c9fac451dbb90c9779c",
+      "size": 2832
+    },
+    {
+      "path": "opt/cango-empire-website/docs/FIX-BERECHTIGUNGEN-PERMANENT.md",
+      "sha256": "3e07a9373b9d0246d88a4c825a26310afcf36ae5cfad48994513a988ccdec198",
+      "size": 1304
+    },
+    {
+      "path": "opt/cango-empire-website/docs/HOSTINGER-SUPPORT-FINAL.md",
+      "sha256": "0028e7a3f7c1967f0ec583fb3c37c3bd09febc54195d7dedfb2cd675e49b2b75",
+      "size": 1501
+    },
+    {
+      "path": "opt/cango-empire-website/docs/HOSTINGER-SUPPORT-KONTAKT.md",
+      "sha256": "583aef4749cdabf5c27cfa00d9e3928407356b0add51fdad76c9495efdc1e5aa",
+      "size": 1047
+    },
+    {
+      "path": "opt/cango-empire-website/docs/HOSTINGER-SUPPORT-TECHNICAL-SUMMARY.md",
+      "sha256": "ae1d616ff8b1144ef6ea1a82c8aac715bd593bc289983ce8f22eecca4b3c3f8a",
+      "size": 3540
+    },
+    {
+      "path": "opt/cango-empire-website/docs/HOSTINGER-SUPPORT-TECHNISCHE-ZUSAMMENFASSUNG.md",
+      "sha256": "ab6a5aeeac8bc64412f9d9476af3ed0979406b094bb5bbced79656f729bca3e4",
+      "size": 3769
+    },
+    {
+      "path": "opt/cango-empire-website/docs/HOSTINGER-ZIP-UPLOAD-ANLEITUNG.md",
+      "sha256": "a18cf26b3de2ca444a07872ff51e2566f0de163b42cffb1fb18ceb53082877b0",
+      "size": 2998
+    },
+    {
+      "path": "opt/cango-empire-website/docs/HOSTINGER_VPS_KONFIGURATION.md",
+      "sha256": "ca14a32b03f182c136353b46d40c6d18a035d30d8e9d427ad98d7cb9ab917dad",
+      "size": 7757
+    },
+    {
+      "path": "opt/cango-empire-website/docs/INDEX-FIX-HINWEIS.md",
+      "sha256": "da7c7c4ea4eb645029d63b8038b616d1ea7042cfda2f0fa86b2aa827e74124b2",
+      "size": 806
+    },
+    {
+      "path": "opt/cango-empire-website/docs/MANUELL-UPLOAD-ANLEITUNG.md",
+      "sha256": "9d347d7cffa3b6c3a2865b6de8664d8f2d289a13ee9ed354e1b220681cb7cad4",
+      "size": 1528
+    },
+    {
+      "path": "opt/cango-empire-website/docs/ORDNER-BERECHTIGUNGEN-FIX.md",
+      "sha256": "85e3be07f6b991468c59688c0e0e9498c154cbe770ff7b94c9a1ba04ae72f310",
+      "size": 1279
+    },
+    {
+      "path": "opt/cango-empire-website/docs/SERVER-KONFIGURATION.md",
+      "sha256": "464b4d7c2aff74eb9fefb2ca8dd85dfce7cdccd92f02f30c21966f833215168c",
+      "size": 684
+    },
+    {
+      "path": "opt/cango-empire-website/docs/SUPPORT-ANTWORT-FINAL.md",
+      "sha256": "64a0b8495cc7fed09a06204929a133bf926afe20430d4cb15be5dcc67846a429",
+      "size": 2637
+    },
+    {
+      "path": "opt/cango-empire-website/docs/SUPPORT-ANTWORT.md",
+      "sha256": "73f3ccfc70cc7de743b4c376ee83e7ff551d0aa60e989a78e88a1c8fee095d55",
+      "size": 2061
+    },
+    {
+      "path": "opt/cango-empire-website/docs/SUPPORT-KURZNACHRICHT-1000-ZEICHEN.md",
+      "sha256": "38006a4f29941abf63d5901471a2e29b6cc63b5545d2635e88af0556e80961ab",
+      "size": 1994
+    },
+    {
+      "path": "opt/cango-empire-website/docs/SUPPORT-KURZNACHRICHT-KODEE-FINAL.txt",
+      "sha256": "d9b9006b135845755dbe919f7e29905c63b0d01ec0e22099074f7f5a48021caa",
+      "size": 883
+    },
+    {
+      "path": "opt/cango-empire-website/docs/SUPPORT-KURZNACHRICHT-KODEE-KURZ.txt",
+      "sha256": "72d69166983c576c21187034a0105a25a923d6670f4480567ec1cd1ac1c28e2c",
+      "size": 707
+    },
+    {
+      "path": "opt/cango-empire-website/docs/SUPPORT-KURZNACHRICHT-KODEE-VERSION.txt",
+      "sha256": "d9a5408a6bcdfa105d2e4dc37fcc206bfe59b91ebe84ad1e083aa1cef3d26322",
+      "size": 1010
+    },
+    {
+      "path": "opt/cango-empire-website/docs/SUPPORT-KURZNACHRICHT.txt",
+      "sha256": "755474023596fc67f6daa94c2041ba9302303778bd04b8a0cf8d22030fa2cad8",
+      "size": 739
+    },
+    {
+      "path": "opt/cango-empire-website/docs/SUPPORT-UPDATE-DATEIEN-VORHANDEN.md",
+      "sha256": "be03fb05d2774d5c19e1c55c74daa810f258e94fdf4f9590efa0ea5daeb05c6c",
+      "size": 2442
+    },
+    {
+      "path": "opt/cango-empire-website/docs/TEST-ERGEBNISSE.md",
+      "sha256": "680ea451700a533b7cbc0be5bb986dcbdf782f1593ed2270748d7471b6f2497c",
+      "size": 1526
+    },
+    {
+      "path": "opt/cango-empire-website/docs/VPS-SETUP-README.md",
+      "sha256": "4b8ddf184e97c2349774dc4c0b3ee7a779c83d5e14abe8ad92c1d6fe3859e426",
+      "size": 4268
+    },
+    {
+      "path": "opt/cango-empire-website/docs/WEBSITE_UPLOAD_ANLEITUNG.md",
+      "sha256": "171fb3449b3d4ca186dc6dc23cb450f1a5771700223a1341439949bc9e53059e",
+      "size": 3947
+    },
+    {
+      "path": "opt/cango-empire-website/docs/WOOCOMMERCE-INSTALLATION-SCHRITTE.md",
+      "sha256": "e08a71a87f37425a9ce3a2111e740770308106a2bcfa0f2eb7bfcd81988aaabe",
+      "size": 4878
+    },
+    {
+      "path": "opt/cango-empire-website/docs/WORDPRESS-404-PROBLEM.md",
+      "sha256": "8ade0e5310965bd06952731f2ea77d56f248d5766c3174ab082ac25f95054527",
+      "size": 2975
+    },
+    {
+      "path": "opt/cango-empire-website/docs/WORDPRESS-INSTALLATION-ANLEITUNG.md",
+      "sha256": "fbff879bf82a5b0e2aff48c5c5ac06c40defb1880a667521fa120d526847437a",
+      "size": 3580
+    },
+    {
+      "path": "opt/cango-empire-website/docs/WORDPRESS-VS-STATISCH-VERGLEICH.md",
+      "sha256": "1392f5879a755a5eb4728acf91285e2f57ba263f476b00512a7c4dba5fe7b4b7",
+      "size": 2047
+    },
+    {
+      "path": "opt/cango-empire-website/docs/WORDPRESS-WOOCOMMERCE-STRATEGIE.md",
+      "sha256": "4fa0d835db1ca84f3caefcc20b95e61f0e1382faed80f32074e0ef4c15234dc7",
+      "size": 3156
+    },
+    {
+      "path": "opt/cango-empire-website/fix-502-server.sh",
+      "sha256": "bc83babb1fec63c65b8b5910e39650b31f0bf63f57e518cb4292a17c92a626d4",
+      "size": 1363
+    },
+    {
+      "path": "opt/cango-empire-website/fix_file_permissions.md",
+      "sha256": "11f7ba77161bb0b648ad461f3d949a32f8587cda32a76afb65f7caa8fe897f67",
+      "size": 1658
+    },
+    {
+      "path": "opt/cango-empire-website/fix_permissions_instructions.md",
+      "sha256": "2d32a5cb135e8c28799b9d92454d1d36725cd706726e9471f447fd5857bb8bb3",
+      "size": 1460
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/accounts/acme-v02.api.letsencrypt.org/directory/8924e878a56a3bc469625c85a9682540/meta.json",
+      "sha256": "00f8e6d9930ddcf460fb1088ef466c74a5c89ec3d7cf98b1df48d2c122f99245",
+      "size": 72
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/accounts/acme-v02.api.letsencrypt.org/directory/8924e878a56a3bc469625c85a9682540/private_key.json",
+      "sha256": "c81719ff2146976b868395419d8d759c208f19b408246e87c985d61444e13906",
+      "size": 1632
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/accounts/acme-v02.api.letsencrypt.org/directory/8924e878a56a3bc469625c85a9682540/regr.json",
+      "sha256": "dda257af444fc1bd1b91bd4c3225f9b3fff85d87530dc2166338657e2fc0250f",
+      "size": 80
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/automation-cango-app-empire.com/cert1.pem",
+      "sha256": "4a1de4cb162f268fa407d2e0a670f735f2dc0e3f5a6986c6fe5a407e14bfcd8c",
+      "size": 1371
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/automation-cango-app-empire.com/chain1.pem",
+      "sha256": "f92d744c2b99ac7346497a637b426d5308dfee9b402daa6cd50ecc3690ba59b1",
+      "size": 1566
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/automation-cango-app-empire.com/fullchain1.pem",
+      "sha256": "8ff9b7c800b6b5dd9a41345c5b37a9be8e6c0b1fb6d900d8aeef61d0e2331c98",
+      "size": 2937
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/automation-cango-app-empire.com/privkey1.pem",
+      "sha256": "1fbef14fa0f49938f2c202d301e608e546d1111fff9dc79b68ddb6c69ace87e3",
+      "size": 241
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/n8n.automation-cango-app-empire.com/cert1.pem",
+      "sha256": "f61c9afcfc1e61d57478975049673c2979ea8d5d447d830f207cd67cc0be24ee",
+      "size": 1338
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/n8n.automation-cango-app-empire.com/chain1.pem",
+      "sha256": "49c11a8e851722a5541b1a9a86e614f4ff8a9ebf27ac0ea152f239bf05b29e55",
+      "size": 1566
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/n8n.automation-cango-app-empire.com/fullchain1.pem",
+      "sha256": "d29c70ad13e8d2eef57451946aedd2d7b25564257e9533905f7edddbac0d1fcf",
+      "size": 2904
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/n8n.automation-cango-app-empire.com/privkey1.pem",
+      "sha256": "c6b49d08a0c0e392affe8bbec64bbbf7d84de35e58253c476cfe17bcdf88962d",
+      "size": 241
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/npm-1/cert1.pem",
+      "sha256": "a1b46c00c806f3d44138a082a77c9691afc9b0aa0d043cb7e1f8b8acca5bf897",
+      "size": 1375
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/npm-1/chain1.pem",
+      "sha256": "f92d744c2b99ac7346497a637b426d5308dfee9b402daa6cd50ecc3690ba59b1",
+      "size": 1566
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/npm-1/fullchain1.pem",
+      "sha256": "0f21c8125da9c28a42d8021a0b9ba34d4c0b61a99313eaec4ef997906a8697e7",
+      "size": 2941
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/npm-1/privkey1.pem",
+      "sha256": "151f057759591818fdd2fea937dca5c3d6c09c053286d522a8f25a66ee162785",
+      "size": 306
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/npm-2/cert1.pem",
+      "sha256": "d43a6f0931aef14cbf806ba18eb19dceb6187164e13e7bd8b2bd51e8a538de80",
+      "size": 1371
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/npm-2/chain1.pem",
+      "sha256": "49c11a8e851722a5541b1a9a86e614f4ff8a9ebf27ac0ea152f239bf05b29e55",
+      "size": 1566
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/npm-2/fullchain1.pem",
+      "sha256": "edc0ae45114504ba9f0504a9d1909b69681d0919a0a55daa3dc161a956bc65fa",
+      "size": 2937
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/npm-2/privkey1.pem",
+      "sha256": "ad03119bfdccd778e38d15c393a676c6bdd0f0e920bffb18834463a26546817b",
+      "size": 306
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/npm-9/cert1.pem",
+      "sha256": "9efe055c2daa2dccab1a6787c52f08991710869e2cffa3a70e04a2770c7c3779",
+      "size": 1338
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/npm-9/chain1.pem",
+      "sha256": "f92d744c2b99ac7346497a637b426d5308dfee9b402daa6cd50ecc3690ba59b1",
+      "size": 1566
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/npm-9/fullchain1.pem",
+      "sha256": "11b55901a7a692492f920b8853039f2f9984f3e2bdf28b013dad117c0d2efa24",
+      "size": 2904
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/archive/npm-9/privkey1.pem",
+      "sha256": "0b0ef3a9f2ceea310732374635ee1493c591728fee638ccd8e6272e190393c28",
+      "size": 241
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/README",
+      "sha256": "2dbc639e71598f5436c072bce9d0d1ae63ba95070d658586d17d790651e2d262",
+      "size": 740
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/automation-cango-app-empire.com/README",
+      "sha256": "7e519cf3c13ff96c0a8e35e6f25fd43cc3c396f7b5c4393bd26ab072dd25c1fa",
+      "size": 692
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/automation-cango-app-empire.com/cert.pem",
+      "sha256": "4a1de4cb162f268fa407d2e0a670f735f2dc0e3f5a6986c6fe5a407e14bfcd8c",
+      "size": 1371
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/automation-cango-app-empire.com/chain.pem",
+      "sha256": "f92d744c2b99ac7346497a637b426d5308dfee9b402daa6cd50ecc3690ba59b1",
+      "size": 1566
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/automation-cango-app-empire.com/fullchain.pem",
+      "sha256": "8ff9b7c800b6b5dd9a41345c5b37a9be8e6c0b1fb6d900d8aeef61d0e2331c98",
+      "size": 2937
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/automation-cango-app-empire.com/privkey.pem",
+      "sha256": "1fbef14fa0f49938f2c202d301e608e546d1111fff9dc79b68ddb6c69ace87e3",
+      "size": 241
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-1/README",
+      "sha256": "7e519cf3c13ff96c0a8e35e6f25fd43cc3c396f7b5c4393bd26ab072dd25c1fa",
+      "size": 692
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-1/cert.pem",
+      "sha256": "a1b46c00c806f3d44138a082a77c9691afc9b0aa0d043cb7e1f8b8acca5bf897",
+      "size": 1375
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-1/chain.pem",
+      "sha256": "f92d744c2b99ac7346497a637b426d5308dfee9b402daa6cd50ecc3690ba59b1",
+      "size": 1566
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-1/fullchain.pem",
+      "sha256": "0f21c8125da9c28a42d8021a0b9ba34d4c0b61a99313eaec4ef997906a8697e7",
+      "size": 2941
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-1/privkey.pem",
+      "sha256": "151f057759591818fdd2fea937dca5c3d6c09c053286d522a8f25a66ee162785",
+      "size": 306
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-2/README",
+      "sha256": "7e519cf3c13ff96c0a8e35e6f25fd43cc3c396f7b5c4393bd26ab072dd25c1fa",
+      "size": 692
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-2/cert.pem",
+      "sha256": "d43a6f0931aef14cbf806ba18eb19dceb6187164e13e7bd8b2bd51e8a538de80",
+      "size": 1371
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-2/chain.pem",
+      "sha256": "49c11a8e851722a5541b1a9a86e614f4ff8a9ebf27ac0ea152f239bf05b29e55",
+      "size": 1566
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-2/fullchain.pem",
+      "sha256": "edc0ae45114504ba9f0504a9d1909b69681d0919a0a55daa3dc161a956bc65fa",
+      "size": 2937
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-2/privkey.pem",
+      "sha256": "ad03119bfdccd778e38d15c393a676c6bdd0f0e920bffb18834463a26546817b",
+      "size": 306
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-9/README",
+      "sha256": "7e519cf3c13ff96c0a8e35e6f25fd43cc3c396f7b5c4393bd26ab072dd25c1fa",
+      "size": 692
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-9/cert.pem",
+      "sha256": "9efe055c2daa2dccab1a6787c52f08991710869e2cffa3a70e04a2770c7c3779",
+      "size": 1338
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-9/chain.pem",
+      "sha256": "f92d744c2b99ac7346497a637b426d5308dfee9b402daa6cd50ecc3690ba59b1",
+      "size": 1566
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-9/fullchain.pem",
+      "sha256": "11b55901a7a692492f920b8853039f2f9984f3e2bdf28b013dad117c0d2efa24",
+      "size": 2904
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/live/npm-9/privkey.pem",
+      "sha256": "0b0ef3a9f2ceea310732374635ee1493c591728fee638ccd8e6272e190393c28",
+      "size": 241
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/renewal/automation-cango-app-empire.com.conf",
+      "sha256": "7b2b37bf2b1df9cffc0bea821df945404ccda6a0334dd2a6829faa950a5ee0a2",
+      "size": 606
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/renewal/npm-1.conf",
+      "sha256": "a5012593d125d5f7c9991ad666dde9d541102273d4802602bd372f4effc7f9f4",
+      "size": 641
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/renewal/npm-2.conf",
+      "sha256": "38e7e0d3c3cda434f9b25f43832d6d0ff36f8163f6d14ec50b40bc256f6516f9",
+      "size": 641
+    },
+    {
+      "path": "opt/cango-empire-website/letsencrypt/renewal/npm-9.conf",
+      "sha256": "afb08cc49c7b974b6d767e1ae4a701f34d71c4e2de5e96e33941b53ce07dcd8e",
+      "size": 476
+    },
+    {
+      "path": "opt/cango-empire-website/permissions_check_report.md",
+      "sha256": "faf7bf36a2e4f700a267c85fc75f541219ab1a481b4f7e95c00cac1eaff65a36",
+      "size": 2028
+    },
+    {
+      "path": "opt/cango-empire-website/report-change.sh",
+      "sha256": "300b1069ca9b1fd214397f09e589620c207b6135219d38e61fc1f71bad67a0ea",
+      "size": 1739
+    },
+    {
+      "path": "opt/cango-empire-website/scripts/convert-tools-to-simple.py",
+      "sha256": "9bb363348a35b0026075f6f7d62d2be0ed9fa0256719b541e4fb14851b7d8383",
+      "size": 3201
+    },
+    {
+      "path": "opt/cango-empire-website/scripts/generate-tool-pages.py",
+      "sha256": "83e516c0aa4390e75791fd06244e03d27f5703935bfbe36dc477ea1b23d9633f",
+      "size": 57265
+    },
+    {
+      "path": "opt/cango-empire-website/server-fix-502.sh",
+      "sha256": "dcf89740ecaae69d479ec21d7bfe9ad13dd3dd080740e8ea9d500e39964a6a6e",
+      "size": 1080
+    },
+    {
+      "path": "opt/cango-empire-website/server-repair.sh",
+      "sha256": "7f5eb7ea607b81ac2b82fe341107ce7897f9b988793a435e9979dfbe55abde99",
+      "size": 9973
+    },
+    {
+      "path": "opt/cango-empire-website/start-local-preview.sh",
+      "sha256": "bdbb31c3c4bd936dd91d67c5a45b5cd131a29116d0e5bbd5fb5f22b1667221c6",
+      "size": 413
+    },
+    {
+      "path": "opt/cango-empire-website/tmp-website-contact-appointments-test.json",
+      "sha256": "d30c07a674bfd819188845394691f69c9ba9f440f726c7dafdc4bc452dac28b5",
+      "size": 420
+    },
+    {
+      "path": "opt/cango-empire-website/tmp-website-contact-leads-test.json",
+      "sha256": "837f02bf590ecc6b242300def5126cb568112013b4e5d44b367fcf1cd8352aa4",
+      "size": 398
+    },
+    {
+      "path": "opt/cango-empire-website/tmp-website-contact-ncb-test.json",
+      "sha256": "a29cc9119778630992e6dde30bb1a9fde3464fc665fc2858571bcfa64e104cc9",
+      "size": 425
+    },
+    {
+      "path": "opt/cango-empire-website/upload_via_ssh_manual.md",
+      "sha256": "1e80f608244e9051116d4ec5a9d7d69480a2276f987589d265bdeb5cdfab4155",
+      "size": 2650
+    },
+    {
+      "path": "opt/cango-empire-website/website/.changereports/cleanup.log",
+      "sha256": "1f89175045829e4ecc0be6ba84f2ef5070c050a906e0648f65be39f6cf6b8e71",
+      "size": 3135
+    },
+    {
+      "path": "opt/cango-empire-website/website/.htaccess",
+      "sha256": "b15b9c0c8543cb206e654bcd19d77cef33840bb60084080c7a26cf4f27db8fd7",
+      "size": 26
+    },
+    {
+      "path": "opt/cango-empire-website/website/about.html",
+      "sha256": "c56cba8e5b1114b30040a5a10e01a28ae7b4e80ca3c496bf71a1df8193fb00d1",
+      "size": 15171
+    },
+    {
+      "path": "opt/cango-empire-website/website/agb.html",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size": 1
+    },
+    {
+      "path": "opt/cango-empire-website/website/automationen-workflows.html",
+      "sha256": "f18e6ebbd28fbe21563f75dd054b10f77dc999b6e53e7aba7b8dff324541fd3b",
+      "size": 332667
+    },
+    {
+      "path": "opt/cango-empire-website/website/b2b-energy.html",
+      "sha256": "6bd41115685287b6c1ebfb111c7cc3bfed6949e8a424972841a2ba5e79b5e4c6",
+      "size": 37741
+    },
+    {
+      "path": "opt/cango-empire-website/website/blogs/crypto-web3.html",
+      "sha256": "a7246a2c3198323be3284c34cb18f4a8a6c9160d78bf920daf47fbfb550c296f",
+      "size": 27401
+    },
+    {
+      "path": "opt/cango-empire-website/website/blogs/energie-solar.html",
+      "sha256": "fb340465c0df3449073a5954e81ed5c58ab9666f31c21b9fb54c85298c647de5",
+      "size": 27413
+    },
+    {
+      "path": "opt/cango-empire-website/website/blogs/finanzen-versicherung.html",
+      "sha256": "e5ab45d22cce45595d7ab8ac6ee79b82ef935ef02c00e2d00209c711fc1629fc",
+      "size": 27709
+    },
+    {
+      "path": "opt/cango-empire-website/website/blogs/immobilien.html",
+      "sha256": "4e5e29216d987a42e545489a662cf7053e2491be9d52a347a6026cb9c632ac80",
+      "size": 27436
+    },
+    {
+      "path": "opt/cango-empire-website/website/blogs.html",
+      "sha256": "428ec18b795f12d4f9da7085f8f7b6bef162201f0fbfa911dbc0b60908953613",
+      "size": 27725
+    },
+    {
+      "path": "opt/cango-empire-website/website/cango-empire-v4-monopoly.css",
+      "sha256": "479a9121d2595bbb103fe426126a77ebd247dffccc5c4e3d727ec02e8bd834c0",
+      "size": 53869
+    },
+    {
+      "path": "opt/cango-empire-website/website/cango-empire-v4-monopoly.html",
+      "sha256": "4c91833943f960af5e1971e4be91a75a15f33d00d905811a5715aaf6bb58d50c",
+      "size": 164212
+    },
+    {
+      "path": "opt/cango-empire-website/website/cango-empire-v4-monopoly.js",
+      "sha256": "34146526120c91bfd8831c887b609e763d66297d67c29c777fb97994e56f4cb1",
+      "size": 27553
+    },
+    {
+      "path": "opt/cango-empire-website/website/cango-empire.css",
+      "sha256": "5e94d54ad5860298139a7368f41afbb9472bbbc4d93d481991812c642d0e6a13",
+      "size": 12327
+    },
+    {
+      "path": "opt/cango-empire-website/website/cango-empire.html",
+      "sha256": "6ec4fae7205034d4ce36f61f1d64fbc54edd974fcaecb13a45db2f8c27930358",
+      "size": 14433
+    },
+    {
+      "path": "opt/cango-empire-website/website/cango-empire.js",
+      "sha256": "c95935fbeb7e4d8bbfc113a5dd6c5b90974025188d8244daad0670790ab0cb4e",
+      "size": 1623
+    },
+    {
+      "path": "opt/cango-empire-website/website/cart.js",
+      "sha256": "8901c308b1a5a409f17062e2fc6bd50233909307bcd9f3a060d16301ec06d0e6",
+      "size": 3650
+    },
+    {
+      "path": "opt/cango-empire-website/website/check-manufaktur-on-server.sh",
+      "sha256": "f7df753288e1001635b3ac9427d10f9bf25e857e811b4b8dfcd0f4a6fee1503b",
+      "size": 770
+    },
+    {
+      "path": "opt/cango-empire-website/website/checkout.html",
+      "sha256": "cbe58a917d4ed14bc7f05ec3655a36b6fca3a9afeadffc2e4d9f351033bbd75e",
+      "size": 40041
+    },
+    {
+      "path": "opt/cango-empire-website/website/coaching-mindset.html",
+      "sha256": "d2d309ac6ea9ce4cd227f33771bb2737049c6112f3aaeb877bbde5ee021998c8",
+      "size": 69763
+    },
+    {
+      "path": "opt/cango-empire-website/website/cyber-assistant.html",
+      "sha256": "e6c866f3a07170dae9b47cc2a124dba360f06144fa82afd39b0cf6f606b0659b",
+      "size": 17024
+    },
+    {
+      "path": "opt/cango-empire-website/website/dark-factory.css",
+      "sha256": "476940e1f728531ded9a6df457291779cfbd50fd1e1425fc43f406b988c8dda5",
+      "size": 74631
+    },
+    {
+      "path": "opt/cango-empire-website/website/dark-factory.html",
+      "sha256": "bb95b0d693e18fdae35dd7d5fd0d68e6506d9ba9516a2acb258b04f593889bc5",
+      "size": 136082
+    },
+    {
+      "path": "opt/cango-empire-website/website/dark-factory.js",
+      "sha256": "1a9ee6119cb3919831ae08f1c0d4b868f36befc40b05f69e23d321b2e2c9385d",
+      "size": 20652
+    },
+    {
+      "path": "opt/cango-empire-website/website/data/homepage-blogs.json",
+      "sha256": "e06ca276a13609fcc27163083611a06b0980d316f64ce4c1e0cbb69064fab5b3",
+      "size": 2678
+    },
+    {
+      "path": "opt/cango-empire-website/website/data/homepage-news.json",
+      "sha256": "802776d20584a14397fa0bcbb9baad08335f0450cfa988f4c57eec2b4e82c5b7",
+      "size": 2224
+    },
+    {
+      "path": "opt/cango-empire-website/website/datenschutz.html",
+      "sha256": "d2388f9f14a90d09465572effcb3853bae2564ecf20449e59a4619f816ab5823",
+      "size": 18895
+    },
+    {
+      "path": "opt/cango-empire-website/website/depositphotos-integration.js",
+      "sha256": "31b6b3a55021b2c7c27c3fa5d956075732c50a37c5663f8a0e0e8efdfb4cc2e4",
+      "size": 16581
+    },
+    {
+      "path": "opt/cango-empire-website/website/domicil-grundstein.html",
+      "sha256": "cc522f3845c606a70d241a57e448ae3bc616c9a56d12ea886988dd323756c6ff",
+      "size": 27633
+    },
+    {
+      "path": "opt/cango-empire-website/website/energie-finance.html",
+      "sha256": "bf73d2136e28a82e206e78a874ec389152dffa07f308e08c0e0609e6a71b6974",
+      "size": 36243
+    },
+    {
+      "path": "opt/cango-empire-website/website/faq.html",
+      "sha256": "f2c35d65c0c0ca3a128b415ea19ad3b58289b46a491981ec5d2f4559356d2e8e",
+      "size": 8972
+    },
+    {
+      "path": "opt/cango-empire-website/website/finanzen-versicherung.html",
+      "sha256": "57648de91454ea3f7358a3af92107b0e339c27b35c5c7f2284fc84e382bb9f21",
+      "size": 71890
+    },
+    {
+      "path": "opt/cango-empire-website/website/fix-manufaktur-on-server.sh",
+      "sha256": "3d690378a214557060c4cb1c564b5584fd3f4a8a6e02cedcf8f17508cd4a07ec",
+      "size": 1255
+    },
+    {
+      "path": "opt/cango-empire-website/website/fonts/fonts.css",
+      "sha256": "26f2ae6898ec6dad13e61f63026a62e60931f0169e3d1da6851390a5901a4e92",
+      "size": 2981
+    },
+    {
+      "path": "opt/cango-empire-website/website/fonts/instrument-sans-400.woff2",
+      "sha256": "2ee17598a98d8a59e4df8152d015bec9ab8e4d5672cc0ab42bef806b568e3971",
+      "size": 30092
+    },
+    {
+      "path": "opt/cango-empire-website/website/fonts/instrument-sans-500.woff2",
+      "sha256": "2ee17598a98d8a59e4df8152d015bec9ab8e4d5672cc0ab42bef806b568e3971",
+      "size": 30092
+    },
+    {
+      "path": "opt/cango-empire-website/website/fonts/instrument-sans-600.woff2",
+      "sha256": "2ee17598a98d8a59e4df8152d015bec9ab8e4d5672cc0ab42bef806b568e3971",
+      "size": 30092
+    },
+    {
+      "path": "opt/cango-empire-website/website/fonts/instrument-sans-700.woff2",
+      "sha256": "2ee17598a98d8a59e4df8152d015bec9ab8e4d5672cc0ab42bef806b568e3971",
+      "size": 30092
+    },
+    {
+      "path": "opt/cango-empire-website/website/fonts/jetbrains-mono-400.woff2",
+      "sha256": "83c005d49d8a6a50474c73a5a36ac0468076e9c4a29da7bdb14995d80560a5be",
+      "size": 31432
+    },
+    {
+      "path": "opt/cango-empire-website/website/fonts/jetbrains-mono-500.woff2",
+      "sha256": "83c005d49d8a6a50474c73a5a36ac0468076e9c4a29da7bdb14995d80560a5be",
+      "size": 31432
+    },
+    {
+      "path": "opt/cango-empire-website/website/fonts/jetbrains-mono-600.woff2",
+      "sha256": "83c005d49d8a6a50474c73a5a36ac0468076e9c4a29da7bdb14995d80560a5be",
+      "size": 31432
+    },
+    {
+      "path": "opt/cango-empire-website/website/fonts/press-start-2p.woff2",
+      "sha256": "afec86997fdaf54af1f59358fa2c1e2a0f1d04146edad18e5cd141d0384a7548",
+      "size": 12512
+    },
+    {
+      "path": "opt/cango-empire-website/website/force_reload.html",
+      "sha256": "98c539f24ff0fc232df013a1d7c586481b73feb38ce0d18d965646c0686e5723",
+      "size": 10298
+    },
+    {
+      "path": "opt/cango-empire-website/website/images/browseract/README.md",
+      "sha256": "7fb25a5b96f7bfea42047b1aea3b540904a577dedd87efe702f2552e466d9e14",
+      "size": 680
+    },
+    {
+      "path": "opt/cango-empire-website/website/images/founder-canberk-kivilcim.jpg",
+      "sha256": "c7cd8747f1c4d1f17bd973f99f2a397b3bbff0c424781dfd6638d3242607ec58",
+      "size": 246247
+    },
+    {
+      "path": "opt/cango-empire-website/website/immobilien.html",
+      "sha256": "628b0b347bea0c69279da769f1e2d78eae7d6c8fc889f1e4506b694b2d2594af",
+      "size": 80012
+    },
+    {
+      "path": "opt/cango-empire-website/website/impressum.html",
+      "sha256": "73377fd22e8d0441e34429f83e22a3194a3321d279631d05936e9d37550438f2",
+      "size": 12961
+    },
+    {
+      "path": "opt/cango-empire-website/website/index.html",
+      "sha256": "f8bfb412b6f23e7d785b202f8b4eb3573605e3c7631af4ea3ba74e1c57306f1d",
+      "size": 185633
+    },
+    {
+      "path": "opt/cango-empire-website/website/index.html.backup-lokal",
+      "sha256": "fcd477a1e78ceb1a258e217e71335f5122db94291cf2e10cec37c06fb1513208",
+      "size": 151562
+    },
+    {
+      "path": "opt/cango-empire-website/website/index.html.before-offline",
+      "sha256": "ec749e933e24f94970adb29b4ff2c1759fa89e787fb6d88012ebee8c09fb5aa2",
+      "size": 151579
+    },
+    {
+      "path": "opt/cango-empire-website/website/index.html.damaged-by-ais",
+      "sha256": "59f26c0920a9f8a973787a46719e4ae836e7f6bb3dcd37716bbca3a94e9e7cbb",
+      "size": 147728
+    },
+    {
+      "path": "opt/cango-empire-website/website/index.html.pre-edit-backup",
+      "sha256": "fcd477a1e78ceb1a258e217e71335f5122db94291cf2e10cec37c06fb1513208",
+      "size": 151562
+    },
+    {
+      "path": "opt/cango-empire-website/website/js/partner-banner.js",
+      "sha256": "aac1abca749d080cd31f3ca676515a35e2341479e162f4dea30357cb34adcd66",
+      "size": 1757
+    },
+    {
+      "path": "opt/cango-empire-website/website/karriere-hr.html",
+      "sha256": "87b1837a82337df3a1e3bb82a87840e6d4fe0a7cba9963b2e947925223ebef3c",
+      "size": 17905
+    },
+    {
+      "path": "opt/cango-empire-website/website/kontakt.html",
+      "sha256": "3398902a7b81629177909d877d849ed0b04e4606bce58f370c59b8a5b74b975d",
+      "size": 30647
+    },
+    {
+      "path": "opt/cango-empire-website/website/maintenance-index.html",
+      "sha256": "5a0c4548ec6505ffb7c2328fc1e7b2dcc2a906b1ee36e8ef5d38b2c62d00fc11",
+      "size": 1825
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/UPLOAD_ANLEITUNG.md",
+      "sha256": "64540d37c938d5e430c5a51065970ddedfbbbc6f93e44ae1069b2dfae26ad7d7",
+      "size": 3558
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/automationen.html",
+      "sha256": "cda8b5d500a87a127ab0fc47a294179f09dc07bf1163c50fef5996e639ae4844",
+      "size": 6780
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/checkout.html",
+      "sha256": "c0ad5c480bd0f80998867fd252fae5cdcce19a8c550b33005e331aa8f5ffac52",
+      "size": 34686
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/coaching-mindset.html",
+      "sha256": "023aa3f07a37f40b06c3d36a4e045ac49e88c1d94ec1188e932092c38e900a0a",
+      "size": 6853
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/crypto-web3.html",
+      "sha256": "08cd67816b0cf91cbcf466b217a36cbfa3d5dfd0d822d1acfd081d750870ce1a",
+      "size": 6830
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/domicil-projekte.html",
+      "sha256": "cff0a0adc9c6fd6af278c6b8c28a29003c85d9977ce1dbbb8174292600f8da2c",
+      "size": 9117
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/energie-solar.html",
+      "sha256": "5f91852dbb4df56824927e8aea1445f1e3adde7043d1518b6b0b6d67f53e038a",
+      "size": 6837
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/finanzen-versicherung.html",
+      "sha256": "2d9fb99d1c54e476c38c76caa21520f708b64781f48eeb45365986c1d86a5d1d",
+      "size": 521
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/grundstein-projekte.html",
+      "sha256": "0c5e8aceef471d615df45c77d0bedf20710bb082582e5e4c53cbd04c37e121cd",
+      "size": 9150
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/immobilien-quiz.html",
+      "sha256": "371053634d38c329fc129548588a352633f103c294b24218891c901bc0647b21",
+      "size": 11332
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/immobilien.html",
+      "sha256": "a101f7b8a90351423107e050efb204c64061791fa1539d5339ba2cff22ae2a43",
+      "size": 24096
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/karriere-hr.html",
+      "sha256": "b7850ea579ce5d197a69bf0179ae0cead7c51b922313e4a229ddd64c12a56858",
+      "size": 455
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/ki-tech.html",
+      "sha256": "a3ba7cef415275455b92f8b2ce95423d34396f14ed7affc815639b907e26fd3b",
+      "size": 157429
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/ki-tech.html.bak",
+      "sha256": "76be4a4f27a90b1be6a42b44cde710315c29ecf6d5f51a8acb922a6d42bafb97",
+      "size": 166466
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/ki-tech.html.bak5",
+      "sha256": "b18eac7f1d13639cbf57bdede2d9f4ca4d04f50a2f2245b8d95d453607db3825",
+      "size": 167590
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/ki-tech.html.bak6",
+      "sha256": "68903b4a1c3da6e71b6caf4b0733cf234fc60c18c99972845bfa9a883693f89e",
+      "size": 166315
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/ki-tech.html.bak7",
+      "sha256": "fffc6b031719948cce7d2ce152a361dbed4480c64262a3bc6252dbddc968e243",
+      "size": 167688
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/ki-tech.html.bak8",
+      "sha256": "dd1282f482763853a48f26a1b5bad659bad0a5d2855d20e0f067ca369a600814",
+      "size": 166644
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/ki-tech.html.bak9",
+      "sha256": "d7aef849794380d8c98a3e5e7e99d8fd77578cf559aa7abfe87e9e02dd93df04",
+      "size": 148861
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/mitnorm-projekte.html",
+      "sha256": "3094d4eb357ca7260e2a8f778348d149fe0fc578de11940d22132d127ebf9a0e",
+      "size": 9108
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/activepieces.html",
+      "sha256": "191292999a7f869cc0b82aa6f2c6411f45101fbae21b3ea73c4c493a9e77c663",
+      "size": 21027
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adalo.html",
+      "sha256": "2e7713edf9f6a67645e5c6c5dbca1a755b0b10130ba24ee8285d80b166205c11",
+      "size": 20845
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_all_remaining_tools.sh",
+      "sha256": "1729ec5b5c608ba9712d2ca22052ac02c55a56078f1deea58f22d762f85c66ac",
+      "size": 288
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_all_remaining_tools_complete.py",
+      "sha256": "4ac0106d2f47a3c5d7a4728a2ef40139989e675d0247d81d5b0ee4875bc77a12",
+      "size": 12111
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_binance_api_complete.py",
+      "sha256": "41b5b1bd5ecb8297ce400b19303ada7cba3fafdce904ebd5348b606182ec086e",
+      "size": 22699
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_claude_artifacts_complete.py",
+      "sha256": "72797b392f27bb8c5586d84a53bb37e198a0fc2e057e8207323c732979fbac77",
+      "size": 23179
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_gamma_complete.py",
+      "sha256": "64e9df357f5b4b4cb30b93ea1ebf476a72624a3ba6dff731930a05fdd7267aee",
+      "size": 16930
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_goose_vpn_complete.py",
+      "sha256": "819b2cafe88b69a5e20ce5267bf06fdba12b94af1d6f895b3ce3d8fb62fcf178",
+      "size": 21907
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_hostinger_complete.py",
+      "sha256": "42723a603726db9128965c843efddcf8912467ed3768943111530df6547396be",
+      "size": 22811
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_luma_ai_complete.py",
+      "sha256": "b8fa4250d9d0312d4fc83765d15561378fddaf04b3afc2ee78e86a6ac07692db",
+      "size": 22935
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_mootion_complete.py",
+      "sha256": "0be839bc0adb5a585b2a1b9826f354ad88609e487fb4bed573f3511c83f85105",
+      "size": 21886
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_nocodebackend_complete.py",
+      "sha256": "5ab57c64657514c4bebd19a2268ade713a5897604fd14bec7d530af478faba4e",
+      "size": 21859
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_opus_clip_complete.py",
+      "sha256": "388e1525013461d427bee007e7172bc985660b5932f94d880d3a9dec63af50ac",
+      "size": 22282
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_reap_complete.py",
+      "sha256": "e67cbc6ef461d02e31a0030032df3b8e40560aa9a36fcdd1e3abd110581f103b",
+      "size": 21880
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_sociamonials_complete.py",
+      "sha256": "09ae9c4a81340a642bdfb9418d29ab84f6302914554684a8885e3fa9bce992fb",
+      "size": 22970
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_tidycal_complete.py",
+      "sha256": "8532c8543a3008c3c86db9acd3c06d9c7cb222a9712b6d5de524b4d8912770eb",
+      "size": 22187
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_tome_complete.py",
+      "sha256": "dd03d2c1441b0b29945605b04912eb2434ec8f1286d3e67a4cfda07db3f2ee4e",
+      "size": 15037
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_unmixr_ai_complete.py",
+      "sha256": "15f14ba6de62de95268cbb161a32497ead5300c2f5dd3075e56ec233bf8a7876",
+      "size": 22355
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_voila_complete.py",
+      "sha256": "e3d1d904bf97f9acec2fff00446f0dfc04ec5a033ad344b7833700a40e455981",
+      "size": 22655
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_yapper_complete.py",
+      "sha256": "4c855c12b240276956bd81ab3680e2d0af70d5a47ec1dfc8efc3999267ac8aa8",
+      "size": 22134
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_zep_memory.py",
+      "sha256": "7d3b974be3a4ca444b3fd464160122969ee84968a3ec87e12013926f84cde8eb",
+      "size": 7245
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adapt_zep_memory_complete.py",
+      "sha256": "5028f7c9e1dbcda2025979bedf056c54b7807e9bcb168ed59848176148b204b7",
+      "size": 22572
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/adcreative-ai.html",
+      "sha256": "6d968367f9c7c1cdece35888bd81d5878e4c242b771d942f2c54f2352c0caf07",
+      "size": 21054
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/ahrefs.html",
+      "sha256": "83ed6cfecbc4b7524a5ad6be353b112b8e1c82eef06dbb5c97f81b84a291b248",
+      "size": 21091
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/airtable.html",
+      "sha256": "3815281f3ac29f60cdea70ba3447236482f4515eba6ae10faa187a1bf3f84fed",
+      "size": 21391
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/apollo-io.html",
+      "sha256": "0a7dced7365b8acb11d7d7b70c33a0eb1c5cc5059fc9448fb642871ed72e0046",
+      "size": 20950
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/asana.html",
+      "sha256": "b02fc756d83dbd8391cedcf26b46b8c3b22c8cac0c3524f6d7c7fd78ab347646",
+      "size": 20922
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_10_index.json",
+      "sha256": "0a09435f34b2245d0b372f1a85a4a51703753bbd6dd39fc757e75eab967e3084",
+      "size": 821
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_10_tools.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_11_index.json",
+      "sha256": "c5a5ac041afb9b5314f028e4970bd3409640c24d19ad8c2865a0416bd8467da2",
+      "size": 815
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_11_tools.json",
+      "sha256": "a261c9a60860fe6306f39d8edcf916a47628afc79e0811a9e1851f3dbdaaec1f",
+      "size": 7314
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_12_index.json",
+      "sha256": "00d7ef8a2c88209d4cbfe9e30789c03dd0aaac4a74b0e38644d9d9476fc83117",
+      "size": 800
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_12_tools.json",
+      "sha256": "e3b16ad3ef830232bda5db32b359a21be5218d0b4b5b6b827fe9715716b78232",
+      "size": 7392
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_13_index.json",
+      "sha256": "ca0a9b981daf4b21afebc6f0d63493e945bbc1b8310b8283bab7edd3dd76677d",
+      "size": 805
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_13_tools.json",
+      "sha256": "304237b3942956cd58e4fc71dd8f20a6fe285403323b1426be934fffbbb17299",
+      "size": 7067
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_14_index.json",
+      "sha256": "81dbcbf4d70e22aeb44abb5449b571c5c6e4f2ced00f6f69b2a3f77dee831c72",
+      "size": 845
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_14_tools.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_15_index.json",
+      "sha256": "6ba761e7d6798571f570b1571dca7fa27a7996797da1c35f1b5b76cdf8b389d2",
+      "size": 828
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_15_tools.json",
+      "sha256": "402d4bfe3d0d73d81c601fa209338c8135289e45d78470eadffa40221ee399e3",
+      "size": 15103
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_16_index.json",
+      "sha256": "a378c8ff69ccac2de65907341422f10bc13b38cc03aa43d92bcc9c6e5c57d04a",
+      "size": 873
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_16_tools.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_17_index.json",
+      "sha256": "e9b085b1890ee2853426bcb0480085c19ac48b2b9ee301b03250479bd3a0cfd5",
+      "size": 810
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_17_tools.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_18_index.json",
+      "sha256": "7071148339bb8609f83974cd187bdbc9e9f1311d6637965ec0b3815c3091a3ec",
+      "size": 825
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_18_tools.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_19_index.json",
+      "sha256": "62f6ee22ece798f3ba0b1c46fb0a23dd0738905d83a19bbca2b05b12c2310158",
+      "size": 790
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_19_tools.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_1_index.json",
+      "sha256": "01ec449116cbcdead819ba1c4e0b1458bfb94edd6f4197419f5a8a5e853096ec",
+      "size": 885
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_1_tools.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_20_index.json",
+      "sha256": "ce98bcc9d92490b2fdbb452e589ababac1a27ed90597df705af729b19890dffb",
+      "size": 805
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_20_tools.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_21_index.json",
+      "sha256": "f076d6316e9cb56e00651633cee0588f9915af5a67e2d66c9020de2e918b9cd5",
+      "size": 838
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_21_tools.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_22_index.json",
+      "sha256": "6d9065a46629c68a2a534fd6a2242874ec3d025f4439607415a68bcdd77e1801",
+      "size": 834
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_22_tools.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_2_index.json",
+      "sha256": "b3a0e12d414ed72108d3f4e98bffca6bbdc6153b0dd3de3e60617722c989981f",
+      "size": 889
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_2_tools.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_3_index.json",
+      "sha256": "7a880b9178d66c046faabc7e1320004b85cc39fb7aee81f96aa48c8d51349343",
+      "size": 852
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_3_tools.json",
+      "sha256": "f87d5a176189cceefd547552706c0d5ab1a84838a0cd57e2770f77c3f36d7b20",
+      "size": 7932
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_4_index.json",
+      "sha256": "df2d228e57248938f80fc0e2aa65ac70f7fa1f9e1e6f35d07a1a4e722b345dd0",
+      "size": 816
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_4_tools.json",
+      "sha256": "fd57ea64a229f0646fbbf842e717658d08bda07478d71396320f8f3e43116274",
+      "size": 8007
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_5_index.json",
+      "sha256": "814df792b6ff17736e0832f6af3a90fa1f106e4a8afdb4bf490b478862b2fe93",
+      "size": 865
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_5_tools.json",
+      "sha256": "86765bdf2c3d644842d156e9a17ffdd00c8c115919882a730847c1ce290a2969",
+      "size": 7746
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_6_index.json",
+      "sha256": "08549fce5f08d395e6bd10326cefc2ab3a1c6c133607e2aaa3ad12a728d7bd71",
+      "size": 828
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_6_tools.json",
+      "sha256": "7e40c8eb725eca0ad32038f6db575e30e2d0737299457385d5f1bb2302c8638a",
+      "size": 7960
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_7_index.json",
+      "sha256": "5a79dc32da9da7bbb5f32d3a2182ba12c7e4f9ce66c2ab9d919dfd5ff226007e",
+      "size": 379
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_7_tools.json",
+      "sha256": "549e2020840c320eb8909df1ca4105e4325cd6ea5a06eace49bad3b95d84c036",
+      "size": 3185
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_8_index.json",
+      "sha256": "eb6efea81e4f6b8b3667da23497158012665ed52f5c990db4ddbb69c459fa71d",
+      "size": 837
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_8_tools.json",
+      "sha256": "0415ee626f5f9ecfd573fb3f54e2c14d92ddb7857acbcbdd61f2951271535d27",
+      "size": 7749
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_9_index.json",
+      "sha256": "64b2bf69dae2b33937e1ac42c221d16d2e8a35e50f591561055dc30037451a88",
+      "size": 800
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/batch_9_tools.json",
+      "sha256": "4018b468f1470df2c959ec2d88b24758be9878d47b6c422dd8465e68d0953183",
+      "size": 7643
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/beautiful-ai.html",
+      "sha256": "8bf9306caab4584e886c7ea7eb243e6b91aa9f4682b20cb92c808240d4815994",
+      "size": 21028
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/beehiiv.html",
+      "sha256": "2d530a8ec988ad5dd587bedbc3d33ec2786bf8efd299251ea5090b493e358cea",
+      "size": 20897
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/binance-api.html",
+      "sha256": "89d9d3c9f6efab2c473ae1123f5a011e7c664cd284d73d7b3830070c939e4222",
+      "size": 21084
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/brevo.html",
+      "sha256": "9b3787dfe3f912f161e393ad011bcdb55f9748c5fb5acd05a312735e6f9d71e1",
+      "size": 20845
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/bright-data.html",
+      "sha256": "cdea058eb8d160047c55a3587ff0e02ba86acb6f47a5895d15594324ccd759d7",
+      "size": 21175
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/browseract.html",
+      "sha256": "abdbe39b0f0c2989fae362796b4295b2f8235b82f4e4ace2a5433771a2e81c8d",
+      "size": 21233
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/bubble.html",
+      "sha256": "315013f86ed0fb3ead2fb42635dae87856ea862b5ef0e8c9af13083488e8bfa7",
+      "size": 20950
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/buffer.html",
+      "sha256": "847f574806bb5100b646317c12bdfcdf203189ea75afe443a5cbfd61b1b8cad8",
+      "size": 20871
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/calendly.html",
+      "sha256": "9a53c84686b13eb46c0943927c7a11c5eb7493586cf966a6c332a901126c7d8b",
+      "size": 21019
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/canva.html",
+      "sha256": "8dcbe78bef06c9c24e968b7b37517b59ac1b733a830d7a445dea4d0c4b094e97",
+      "size": 21027
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/carrd.html",
+      "sha256": "23cec6d9b562059b8106da8e9de3b58ec8a02dcec304393313e27da88257b4c9",
+      "size": 20845
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/chatfuel.html",
+      "sha256": "c50fa913639f05c7547db4034de93d287c07c3a3d78f7c177e25279f1f6def86",
+      "size": 20923
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/chatgpt-plus.html",
+      "sha256": "3df02114a65101e459347281d6beabea51a93d920a1c4789804d35e5b63a86d2",
+      "size": 21312
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/chatgpt.html",
+      "sha256": "e5a5bc6b07f314632f29d29be057b64b18efd9e2b5c9bb016b2b2dee590c3018",
+      "size": 20980
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/circle.html",
+      "sha256": "fd6f660073fa26289b7a218e8fa7142833473647b682426e4d4abb385f167e8a",
+      "size": 20871
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/clarity.html",
+      "sha256": "73eb47836f4c9807f93bf119e65b2bf64176d9859c10e79a89bf6f8ea6f88762",
+      "size": 20897
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/claude-35.html",
+      "sha256": "bfd2e66c762c19b915762bf65cc0b313aa3cfcd5b994bf9ffbce7d8f46de8b78",
+      "size": 21400
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/claude-artifacts.html",
+      "sha256": "03571bafe81c8474faa90504395d5a20a6c9198535ad550dd9252e874681b053",
+      "size": 21274
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/claude.html",
+      "sha256": "3f41704445b86928e2357541fbbb0ac469c2d341878894b3a37cb7b476d485a3",
+      "size": 21038
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/clay.html",
+      "sha256": "45fa364c6495585c42387ff8e54694f90d63f2ddf230a62b933dadf083e2e61f",
+      "size": 20819
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/clickup.html",
+      "sha256": "3028f2444358cad48b786d0dd06311626fbc35567cabe63033038ec0f7493f26",
+      "size": 20990
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/clipdrop.html",
+      "sha256": "119e87fdd6af3e4a4229d2dcf7eb78f51754cb8a5e58a9286d5aba6ad697ec45",
+      "size": 20923
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/cloudflare.html",
+      "sha256": "2851b68b4b89cb4ccc5ed0c2bd89b78f59d392dbaf9c8e3da2d981008571349d",
+      "size": 20975
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/convertkit.html",
+      "sha256": "d642cf190c3943fa0ec7483158757b396996ba82a3af3da36d91f65e160b19cf",
+      "size": 21050
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/copy-ai.html",
+      "sha256": "ccdbdf84d379d401304d58236024f3580dd93699ac262f0cd9179dba2e682cd2",
+      "size": 21120
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/cursor-editor.html",
+      "sha256": "68ff2bfc8cfde98d841c86c7590dbf06cbfaeece2c2045ca33f161574604b9dd",
+      "size": 21054
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/cursor.html",
+      "sha256": "d43a011dc2c773e43f9b7d362698d892843a8d903530961f50890daa1c95939c",
+      "size": 21060
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/depositphotos.html",
+      "sha256": "bf549e1fd8bc3f198c0b4ed29bda201f6fbbe14f8f9404b1ad555bce907d9ef0",
+      "size": 21311
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/descript.html",
+      "sha256": "344d1d66be021caab2de878431790d01a00e732139a532270cc5bcc7257474cb",
+      "size": 21209
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/digitalocean.html",
+      "sha256": "a832ef5e0f278bad5e7fbff0ad0df53b8a74b08e900d64112a34a50673ea3518",
+      "size": 21027
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/discord.html",
+      "sha256": "2955ef97f897f3c3717a6255079be709fad8117f4b8aafa1492ee6f5965c52a1",
+      "size": 20968
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/docker.html",
+      "sha256": "3b90ca1689655124de97eb126771a8181f7c7e96120fdcb6c7d2187b435621b7",
+      "size": 20871
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/docusign.html",
+      "sha256": "e96afcf104103c0d4505ca1fad0e592ad1bcd05b8e6465d0b045a44c40db9e8c",
+      "size": 20923
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/elevenlabs.html",
+      "sha256": "a6cc3b82fb46dea831e514875652749057d0298fc0b84d9dfd8df3e41c519613",
+      "size": 21200
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/feedspace.html",
+      "sha256": "3594567599ddf70d44fa34c2ef04e5282c35d4ac328bb89d5e62924c2a8655e7",
+      "size": 21105
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/figma.html",
+      "sha256": "0a95ae5c8afc162efa6930aaee42d2176521de34cda4c9931b9cfce3a2533e63",
+      "size": 20942
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/firecrawl.html",
+      "sha256": "c09ea2ce66f0de57f07b8044aaae0041da3acae4752645875f47825b705f664d",
+      "size": 21205
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/flowise.html",
+      "sha256": "3b61fa7474703ba28996009c3ada8bafeaf5c50a44c8c0ec8ece2a3f837609bc",
+      "size": 20897
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/flutterflow.html",
+      "sha256": "2f610df5e982efacd413ecb7bd6812c35c8e436bb6ed5413a2ac9d19a7360de5",
+      "size": 21001
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/framer.html",
+      "sha256": "817e650213b48df5353cd45101e6d3e34b9b3e35a6b4b5f530691de8089856fa",
+      "size": 20962
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/frase.html",
+      "sha256": "4176791413749e228d33ce5910e922662b99862147a0e37949d8272849945159",
+      "size": 20976
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/gamma.html",
+      "sha256": "7e40f48f49277af192821b49fabb24f5ac7d8de0181582cddef0221ea1223de5",
+      "size": 20981
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/gemini.html",
+      "sha256": "04c949c35fb382eaa19c8bd268c2e002c4cf2639b394309899477ba5f7f66964",
+      "size": 21096
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/github-copilot.html",
+      "sha256": "8de569aa7918dbd1520070ff2d94b93f0e9b7c7a8a128d72c821908ad02e8ef3",
+      "size": 21080
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/github.html",
+      "sha256": "893520f7cd7c9d5973c24d82703f44f79a5b36b83bdb4d33208bad7cb1931855",
+      "size": 21004
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/glide.html",
+      "sha256": "76a83188b5783079dd2161883f1638ddc4ad715ba3d8ac4135c4bd8635c6d886",
+      "size": 20845
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/google-analytics-4.html",
+      "sha256": "553f58397f7756c5c6daad4865167bb975d33fe6db9730480ede69f76a63ed5f",
+      "size": 21185
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/goose-vpn.html",
+      "sha256": "9e83bc33c2d3aa0ea26044f2ae7a01fcf20a4ff82be9b0973dd59bc5cd22a8df",
+      "size": 21073
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/grammarly.html",
+      "sha256": "7da7a50f5d350aa37847ef3ee60e34a25ec662db7b78d18c284128690948a6d3",
+      "size": 21080
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/greta-ai.html",
+      "sha256": "ec70186d2db5423d6d63f646604b5514f437139fc0b7bc0e05806d7fbd3da2fe",
+      "size": 21037
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/grok.html",
+      "sha256": "09a8c1f898a70a74bcb1a60c2ea4e40d0196509d4debde6bb85452da99389677",
+      "size": 21125
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/gumroad.html",
+      "sha256": "2055e7654cb460180b592edd2a1063bccff93618034cd0bca3e2bc3bf88879a2",
+      "size": 20897
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/headlime.html",
+      "sha256": "906476a737ad9e43acf196b0db89d1fc9c7bb0ff0dc39311015e7982c032d52c",
+      "size": 21025
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/hetzner.html",
+      "sha256": "bb5c7869923e4f3d129db840c4d1dfac36c9b926fa110867138177f2d2290431",
+      "size": 20897
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/hexomatic.html",
+      "sha256": "d9ecbe00f80898bec58a2f9c437670cc115331c3d8437273d1811eed799df260",
+      "size": 20949
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/hostinger-vps.html",
+      "sha256": "4b9e02205d8521c23ed20788a724f77e1fff4b35c71b8dbbb2cbcde79ac48b07",
+      "size": 21054
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/hostinger.html",
+      "sha256": "1fc24c96237368be72f3ae4f24b434a1f0118a734ddd0dd7a9b1d56d4569cbeb",
+      "size": 21065
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/hotjar.html",
+      "sha256": "b3e4a86f0d6f65a4473078d7440a973f41f9848d4a0a67ad99b2f2aafe023d2c",
+      "size": 20871
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/hubspot.html",
+      "sha256": "14c0a4e5be136fe963a1120027560f054cb76c43e9e46be825a077ad82d750b3",
+      "size": 21019
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/hugging-face.html",
+      "sha256": "70046e4f8f7cb1d4e252d4dae425d595ebb70e3264b4f847da177011212330d9",
+      "size": 21184
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/index.html",
+      "sha256": "fa843fdcd81c9ecac7ae07793b687f5a530d50ef2e332cb22c0ff52f5cd1baaa",
+      "size": 470
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/instantly.html",
+      "sha256": "7e33226654aac9c139da267720e1552ddff58bbd3da9b505a0f90a92f0f12b59",
+      "size": 20949
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/intercom.html",
+      "sha256": "a9011217e66c7352b8114c0c4c89d53a664c70ec32cb3db0691a8034e31a134f",
+      "size": 21000
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/iubenda.html",
+      "sha256": "c82b5851b2938e1a4e46f400ce76bdeeae7e8c8fd049b9378d5e6bf1b48039e9",
+      "size": 20897
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/jasper-ai.html",
+      "sha256": "4bb7dfa757af8030280552a0c69957969484e0a2be6e788f18bdb5f5e520187e",
+      "size": 21140
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/jira.html",
+      "sha256": "7665934b2916f5bcf0c0d269fb40be8c3ff75a5fb4e36af153a2eb2a4dbe0975",
+      "size": 20910
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/kajabi.html",
+      "sha256": "e127524f3f2a662330f301952f2fd6d71b73ae08371f385c30075f3cddcc3600",
+      "size": 20954
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/katteb.html",
+      "sha256": "b339c0f872b9e424edd051772fee42961294b5be1d6d67b81088527e2ad3c29e",
+      "size": 21103
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/langchain.html",
+      "sha256": "b89fa840f7b7e910cde626380bed9e725ebc7d75a13b353e20749222c5b8b181",
+      "size": 21111
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/later.html",
+      "sha256": "0d3237e877a03fd6fd8dfead55a619f358af91e9a7a6a396f5578a0314e12f76",
+      "size": 20845
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/lemon-squeezy.html",
+      "sha256": "b92b15d2c1766398cb96d942a4277f7d7dbbd120c79240fc06032341f5c7819b",
+      "size": 21054
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/leonardo-ai.html",
+      "sha256": "57061ca19bd70293e96f8b0699a4fa82013141389d9461b77b9a1f35681241fd",
+      "size": 21002
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/linear.html",
+      "sha256": "e6ae115d4788d6a8cdbfea193416e87f5c01123779131dc293632ba73f1406ab",
+      "size": 21001
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/loom.html",
+      "sha256": "4175027cbaaccedf67db36f11b2b1f2c64ccda09c98b66f2bfeb73a81bbb66f6",
+      "size": 20958
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/luma-ai.html",
+      "sha256": "ba599d760857649593f011f54d631a371aa76f47988e101c2fced32d1db94108",
+      "size": 20987
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/luma-dream-machine.html",
+      "sha256": "1a96d587e21f4e14590147bd056b8f76d33c3f3f78870b6bebceab18eaddc33b",
+      "size": 21185
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/mailchimp.html",
+      "sha256": "e2661453ab7a5554242d6dbf3d9c44b6c70cfc1673f751e16787fc7ddba26898",
+      "size": 21054
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/make-integromat.html",
+      "sha256": "5f463d322d416af45d6e27162e47a3247c8bd95e8dd0872368451526098ee977",
+      "size": 21351
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/manychat.html",
+      "sha256": "763c833d4e1521d93be57626ae4545cfab553f0c591c8bfbb26bbe4dbd6d9989",
+      "size": 20923
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/metricool.html",
+      "sha256": "3a23e445fc3f04040cda05b8bf3c71ba43dab1f7115244ef73414bd0e7eb99e5",
+      "size": 20949
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/microsoft-teams.html",
+      "sha256": "b3cce54fdea8ba16af7402226e28ab6fc4b46c291cec2557c10cbbe764524fdd",
+      "size": 21197
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/midjourney.html",
+      "sha256": "fbc2e46412b5a2fe0e8efb22d3413293f192354957d9515be1bb1d6f621ed1e0",
+      "size": 21188
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/mistral-ai.html",
+      "sha256": "da94a774768dee1842a8679d3d7fb1c885ad593068e0f43561721e47e8404914",
+      "size": 21202
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/mixpanel.html",
+      "sha256": "a5c2e2076712d162cdb9c43e4ef0b97d002a2f594332d909b526986d554dc6b2",
+      "size": 20923
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/monday.html",
+      "sha256": "9cddd33f3a2eb61295e3fdb3b0c22bf82bd8aba427487829b1917e48846cbb14",
+      "size": 20986
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/mootion.html",
+      "sha256": "b280443494fa9a1774132bf59cd2e0022ffc3a6b4643d7057f451ba504efc6e2",
+      "size": 21011
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/murf-ai.html",
+      "sha256": "51c546699ee9caccd2d499647f9b9e90d81ebdebc3b5583e3988ad3d413f02c6",
+      "size": 20898
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/murf.html",
+      "sha256": "d0e09ff1ebf6dac2bf0221cb8d8a01c6b9111cd216de3ad9a8ca9f3dc40992ec",
+      "size": 20987
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/n8n.html",
+      "sha256": "4b9baafc9eac7bc4f5362718bf55a1bad50e23b4c8eef544abc48d75ad068da9",
+      "size": 21065
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/neuronwriter.html",
+      "sha256": "b64225af6be6a035729ebe5abf3ceb9a87ae88e92fef12e3f9446cb95bf701ba",
+      "size": 21263
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/nocode-backend.html",
+      "sha256": "edefd780cb8fd02d9738967aa02d10bd7421e78f6f307a26006e3d86b516edad",
+      "size": 21186
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/nocodebackend.html",
+      "sha256": "703f435c38093ffe0061327c92b91d31173acc73a55eb62cfee787dd4b3dfb60",
+      "size": 21053
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/notion.html",
+      "sha256": "0f30ee28dc31717a1532fda77d9104d9f8379168b02691b5cfed83e1e43980b6",
+      "size": 21182
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/obsidian.html",
+      "sha256": "ee2a9cb6f5be16e6a28ee851b38eba762ff288b1bb04de029a4108857b9e3e9e",
+      "size": 20923
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/opus-clip.html",
+      "sha256": "fb91a709f710cb2de4a095da772b3d329ad64003595290ac697f2e8bd8eea814",
+      "size": 21189
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/originality-ai.html",
+      "sha256": "a0963233aa9b86a228e89aa67d2a154cee821e4e60d6eb046e254176d4d2be84",
+      "size": 21166
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/otter-ai.html",
+      "sha256": "e880109bab5c869a544e91d1a1ba5dbf2a6b597c492aa3b58dce34e2c9dfa76a",
+      "size": 20924
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/pabbly.html",
+      "sha256": "6127854be43d96823f35bddd71acaa6cf498e19ee282487488d17192fa9d9b3a",
+      "size": 20871
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/pandadoc.html",
+      "sha256": "d855ef2c2c710b8a0da7d850f3607069fd26f4fd9db7ab7c6a91ae2228f57338",
+      "size": 20923
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/perplexity-pro.html",
+      "sha256": "315f13401f85f60161d46e4c259adcf073c1cba9f5dd49d720157b5bd75099b4",
+      "size": 21300
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/perplexity.html",
+      "sha256": "47ce3f0f04d54af1e0a47ee3aef8a446344c82006639884ba01b070353007358",
+      "size": 21060
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/pika-labs.html",
+      "sha256": "cc607b5bcaeb24d8a86fd3dce76240ed035b35586e53f97bb2dea1cb91c6b578",
+      "size": 20950
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/pinecone.html",
+      "sha256": "01eac92f84a774f7611130b9c3ef17073e975f829dd52dd3eede4ac81d3b6103",
+      "size": 21076
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/pinecone.html.backup",
+      "sha256": "086fb753151b547a4d71c0718eed929008f656596d6a6658efd7355cd7015257",
+      "size": 44414
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/pipedrive.html",
+      "sha256": "cd2beaa1ec2bbbc3d9f4adb79106c5a108a21c6ca259ec801768cccb226cda20",
+      "size": 21020
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/playht.html",
+      "sha256": "88b6fd40c082bbcf3355bc8af02b7339926685aefd7ecee842360dd8a36c3b71",
+      "size": 20998
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/podia.html",
+      "sha256": "d6bd254f520a0e59d5530a5a4234f07078cd4af2098d2ed16c504dfe4877fa06",
+      "size": 20965
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/portainer.html",
+      "sha256": "163c61f90d42dd4ea556992673d68b7f11dabf0c228013ff77a8fd8f9ed177b8",
+      "size": 20949
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/quillbot.html",
+      "sha256": "667ce789ef9f3c69edef10da4c162f69d9460bd4fb2636f81a84dcb6928af778",
+      "size": 21028
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/reap.html",
+      "sha256": "1dc57a9567c757ade63fcc148ba37005d9256f0798af831dac51dba8e656c9d8",
+      "size": 21014
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/resend.html",
+      "sha256": "19c6543ef8157487326bf3f7ba0a94985ab23fd82777f48cfab151414281edec",
+      "size": 20871
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/retool.html",
+      "sha256": "8a88f981b51398659b57f187e76a13176e395f2d73b8f8c9da1d5184251b1cc0",
+      "size": 20871
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/revolut-business.html",
+      "sha256": "8e7b093b4bbd1d84fe5f95cc3328e89fd0a12063851e87e0682e387ed59349ff",
+      "size": 21132
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/runway-gen3.html",
+      "sha256": "13793fdbd9da0bcad0772fa6adc6035256ccaf69e6f9fefcd753da011058d104",
+      "size": 21169
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/runway.html",
+      "sha256": "2a85514886f62d3ead3bc919b6a7ac7ce9228fe98643276304d3f6c6fcae0982",
+      "size": 21010
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/scraperapi.html",
+      "sha256": "8507d9022790b68530c3daef8daf121e3d340a6ba879d57586c6d167db553d85",
+      "size": 21176
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/semrush.html",
+      "sha256": "534dd248cdbaef162682ec9e039791b2d788fc458790521baf4ad28f763feff8",
+      "size": 21093
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/sendgrid.html",
+      "sha256": "049b4621f7dcd12b2b5b84128ea1258345e4b154cb215331df9e68c5924aedf3",
+      "size": 21018
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/shopify.html",
+      "sha256": "d35fcaad6d75ca433e35fcf944e0fdf5622acb386f17e65e57d3fb5d8f2981e5",
+      "size": 20897
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/skillplate.html",
+      "sha256": "ff4e51918a8d57d7540ea61f8438805954d191610fedbe357fe3b98d1265fdc2",
+      "size": 21098
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/skool.html",
+      "sha256": "a16d60ab1e756e45d3002455e9e4422f5920469c81eb590f350549b28f81ad50",
+      "size": 20845
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/slack.html",
+      "sha256": "2deb72bfb18fc4c71df7468163e5d7a756dfda054091c8d6a6a8d099fd6fe1b0",
+      "size": 20942
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/sociamonials.html",
+      "sha256": "8ffec43004176c9f0aa3b3fccb294d335d02a51734792745146a1bd05c74984c",
+      "size": 21182
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/softr.html",
+      "sha256": "b7537e3498573179380bc236e95a5fdcfa9b874fec0d7969f4e66d8b28905a22",
+      "size": 20845
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/stable-diffusion.html",
+      "sha256": "fb37aa4d3cf9ca8dc1e60d1d2ddff533067adafef64c3905091fb300cdf9a48a",
+      "size": 21335
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/stack-ai.html",
+      "sha256": "d1854e8ad5cfcfae5ef1ddcbaa536e6289e3aa4a70096673ce50720e9284020f",
+      "size": 20924
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/stripe.html",
+      "sha256": "ee2516753ac9ed48d47a59efd34ec0553cb9f379cbc4de52ee34ef46d6b9ed51",
+      "size": 20986
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/suno-ai.html",
+      "sha256": "471f250fb1b8ee084fa4541cdceed34c73419d4a5be4ac4fa9c20ef71472fd47",
+      "size": 20898
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/supabase.html",
+      "sha256": "0b2d580ef4d0f15cb05ad39e838d9abf236caf50dbefeefc8e20fa504969e4ff",
+      "size": 21104
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/surfer-seo.html",
+      "sha256": "b3ba14238c5577a30574ebe1fa20135e8a5b0738ee1f42a28ad76a734f402c09",
+      "size": 21173
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/synthesia.html",
+      "sha256": "bc9b70cb5d2c6337b754b1eeae06be6f5ff733c4614ab83e6cfadbb444ba5c93",
+      "size": 21109
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/systeme-io.html",
+      "sha256": "8e4a9a3ca186e553513859a4a65cc6bfbb9e842863feade333fc48840498e3fe",
+      "size": 20976
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/tally.html",
+      "sha256": "b571244f2c4ec0778fb59a66669905b85f9c9447d79c3966f8090262cc4b3d3f",
+      "size": 20891
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/taplio.html",
+      "sha256": "13bceaa005ea4737a1231d15298adc336087120747db59d0ed6bd9aa9666b507",
+      "size": 20871
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/taskade.html",
+      "sha256": "09698149fd780d84045a962bd537766d393fc07f738a1d95c9190cedb289b9ee",
+      "size": 20897
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/teachable.html",
+      "sha256": "704513bb6cbf1f111bcd2d65485fc626abfde1909e8e830d0b796ab0a72193a0",
+      "size": 21064
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/termly.html",
+      "sha256": "cbf192a7d122daf142937b940d8d4053d2b74b8ad6e9c64ac10d7a8f8ceebe59",
+      "size": 20871
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/thinkific.html",
+      "sha256": "9e3d4fa19672b6a5aaa7d4fd229cedd8e7f2dbb9989c90dbb8cceffbd4356d31",
+      "size": 21002
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/tidycal.html",
+      "sha256": "b310ce37fd8256c28d346b43d4f880e4508cadbe47ddd0fc673f60e48f850770",
+      "size": 21060
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/tome.html",
+      "sha256": "8e395ad5420c7e79fc0d631e39c9aa542ac7205b2b62be7c30d351656093ddf1",
+      "size": 20948
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/tools-detail.css",
+      "sha256": "988cf147a1d2e4753016c1b8a8778ea1fd1fc9872dd2b462799b98922ccf2f59",
+      "size": 21796
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/trello.html",
+      "sha256": "f8894aa50c02404db12b20d23d80e492ccf922219b02a339a3e4845a5e5b34e4",
+      "size": 20932
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/twilio.html",
+      "sha256": "a8b088f10cfab53e6d806acf3c8d85d78c9d2431a1965f85f0ea78d175202663",
+      "size": 20871
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/typeform.html",
+      "sha256": "3480e0cca7ab425377912351d644fa90f2878a60aff3234c2dc22e0e5f8be3a2",
+      "size": 21042
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/typefully.html",
+      "sha256": "c241e7175a963361b9a4cd4d2f31927aa61a8954b7e6fa09e6ad90c41ab22948",
+      "size": 20949
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/unmixr-ai.html",
+      "sha256": "94b7a5622b1746a8b4bca1d93d48ab323d8de6c061c2d09c74aec5aa2a74fad7",
+      "size": 21048
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/vectorizer-ai.html",
+      "sha256": "aa0c8e78f2aa2d7b3968ed74f3f070f0690512af0cda2ab4773f92ce2b27968d",
+      "size": 21054
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/vercel.html",
+      "sha256": "80127af64d77496c0d08d03370e65a144736f4b0ea929760cc02f3973c6ffba5",
+      "size": 20970
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/voila.html",
+      "sha256": "72d52ae7db0d1c8f5ffe2f6157c359cb4b0c29a8dbb35f1b45cb9ec0017b422e",
+      "size": 20956
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/vwo.html",
+      "sha256": "e6d16bcb8cc01febc398df4da5ae536574a761710597da24ec2a460bebca6670",
+      "size": 20793
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/webflow.html",
+      "sha256": "30d9dee218988dd5772fc8548dde4475a29fbd7a70b8f176796e570cb76d9e22",
+      "size": 21000
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/wise.html",
+      "sha256": "ff8eefb3e86d8b93d5d8450215e4af102fa2a6db740de9dbaf61a92d0d6eb124",
+      "size": 20819
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/woocommerce.html",
+      "sha256": "6d7dc17ffe9c580ec424dfc3ede17c872cc1bdc2c8b4a22354d0582868f5981a",
+      "size": 21001
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/wordtune.html",
+      "sha256": "877112ca54f7317f6a71c2c448384b25cb36a195b6eebe59142652925cfb847b",
+      "size": 21026
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/writesonic.html",
+      "sha256": "303357f98f284f72e738983f6806d2455ad33381d39935cc5a911c6550a51229",
+      "size": 21080
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/xero.html",
+      "sha256": "e94b7d81be597628bb1a1c7e447f8a6a3823c2044347fa3224e1926cd104c9cd",
+      "size": 20819
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/yapper.html",
+      "sha256": "560ffb9a08469b03af4cc2790b53e8eaad22b178bef582d8358e3442cb546637",
+      "size": 20942
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/zapier.html",
+      "sha256": "968a679de7eacfd0c3c95e90ce42370e5d2808cb621fc711f9df9769c1aafa44",
+      "size": 21076
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools/zep-memory.html",
+      "sha256": "058c5cabfbe444a5f558bb48c89e698e9d8a37a9c1db56b61a9a9c0d724b16f8",
+      "size": 21187
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/tools.zip",
+      "sha256": "712794470842f698c106fb6ac1f88bfcd8072a5c864ed77c9b16525b68508e7c",
+      "size": 803972
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/trading.html",
+      "sha256": "73e968baaee8586070914be76987bc625e528076a386bab1b2d7c6a70b2d4055",
+      "size": 6853
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz/warenkorb.html",
+      "sha256": "0aa5f962c9b9b45f2fb266b2fdbf3d565a594472bca8ed30fceae1097351f848",
+      "size": 28181
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz.html",
+      "sha256": "00f2d02ad0e48fae928458d19030b2490c18b5db85afb7b0729fcd9d4dba9fb5",
+      "size": 27414
+    },
+    {
+      "path": "opt/cango-empire-website/website/marktplatz_tools.json",
+      "sha256": "4ea9409fcbdd942896324d3d9cac82d0a71643f2d8ec317c591a1490b52b345e",
+      "size": 3969
+    },
+    {
+      "path": "opt/cango-empire-website/website/metric-override.css",
+      "sha256": "454f803f79833bdda3220f91532c02e07f4c1e470f06debfc173975060ff9ecf",
+      "size": 1862
+    },
+    {
+      "path": "opt/cango-empire-website/website/mitnorm-blog-grok-workflow.json",
+      "sha256": "27832a1fb3cde4bb4105f84ecfc370e88832268b97121199d7d9c944f38724ff",
+      "size": 19512
+    },
+    {
+      "path": "opt/cango-empire-website/website/nischen/energie.html",
+      "sha256": "b41d2e3512b9b900aaf4bdb32740c1aa0ea7a33dfe788b08b1223c5ebf4c3941",
+      "size": 7171
+    },
+    {
+      "path": "opt/cango-empire-website/website/nischen/immobilien.html",
+      "sha256": "ac113aad271a0c29fee5282fdcde56339bfba30dbe6ae79edd484fb537195873",
+      "size": 7218
+    },
+    {
+      "path": "opt/cango-empire-website/website/nischen/karriere.html",
+      "sha256": "5f4a6c8cecb595094fa12fc91f5830c16de88feeefa5ebc5864eae0b504efffe",
+      "size": 7210
+    },
+    {
+      "path": "opt/cango-empire-website/website/nischen/ki.html",
+      "sha256": "cb3f5bf3cc20eb53eede9f958ba51317543dc0c746658073b7d471c6655f59f5",
+      "size": 7162
+    },
+    {
+      "path": "opt/cango-empire-website/website/nischen/krypto.html",
+      "sha256": "eed93c6267541f3e24bd913ad678125f315981a9da757cf3027beb5726634267",
+      "size": 7172
+    },
+    {
+      "path": "opt/cango-empire-website/website/nischen/mindset.html",
+      "sha256": "53e4d786edb7719354fc617fafb11db5829d846c8a88c7095a7fb846c69eb850",
+      "size": 7246
+    },
+    {
+      "path": "opt/cango-empire-website/website/nischen/vermoegen.html",
+      "sha256": "1390bef6f308b283b03d2baccd3628f230cccda2dc9c13570d87fc626e06230f",
+      "size": 7308
+    },
+    {
+      "path": "opt/cango-empire-website/website/patch-css-on-server.sh",
+      "sha256": "1f4eea63366664d45127d2ac3b5903828be88815e1accecb602554f496f358ae",
+      "size": 1083
+    },
+    {
+      "path": "opt/cango-empire-website/website/pitch-deck.html",
+      "sha256": "8dbaea5f0e45067d378abd86effb29495307bade98d8da76b05a54b748e9f8d1",
+      "size": 21459
+    },
+    {
+      "path": "opt/cango-empire-website/website/private-energy.html",
+      "sha256": "f8b771c80531e7f84a35d2ff590ceae65311648b77e11c782d9dc9e9a78df73f",
+      "size": 38355
+    },
+    {
+      "path": "opt/cango-empire-website/website/produkte.html",
+      "sha256": "8575b30c6660f5369660efa95cc007f8a7ad38caed04bfb50c02b537ba2c5fa9",
+      "size": 157665
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/CLOUDPANEL_SCHRITTE.md",
+      "sha256": "09d9b4fb04c236461dd2e44a88e1f959019239e2b5df8d7210d4dc5ec49d1fba",
+      "size": 3004
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/MANUELLER_UPLOAD.md",
+      "sha256": "991543641d9e09fc1a3106b6631ed2eb142b23e94bdc69098dcdb08739998744",
+      "size": 2367
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/README.md",
+      "sha256": "28e698a5267a60e4800bedac0c9ff6473a981944be509a60683866c48ea4919e",
+      "size": 1538
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/UPLOAD_ANLEITUNG.md",
+      "sha256": "fa3d3f77162725e340b368a8c49babf6701e53ff165ea5c1cc9a0e5662842e2a",
+      "size": 2341
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/add_body_content.py",
+      "sha256": "c8640f3f485430dbd2f1ee4a3048aaeff8a2d2357aa15e6a618d11f6873d07c8",
+      "size": 5939
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/analyze_produkte.py",
+      "sha256": "64b800eb0d9d822a7243975d81a9b222d960815a3929899d2dac4c46749e7a72",
+      "size": 5581
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/apply_fixes_from_user.py",
+      "sha256": "938d25ce911f3ce794e6bdb1561c8f1cf957dba94f9bea379e09f28701c6c70a",
+      "size": 5943
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/assets/founder-canberk-kivilcim.jpg",
+      "sha256": "c7cd8747f1c4d1f17bd973f99f2a397b3bbff0c424781dfd6638d3242607ec58",
+      "size": 246247
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/auto_upload_complete.py",
+      "sha256": "f320ea59284a85ab35695db8c5175fb28b6ff752f501632e75b7698c04e43b57",
+      "size": 8193
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/auto_upload_direct.py",
+      "sha256": "57952f223afa9942c3d531cf19886b025bf7f96776c93328928f34f7821f01f3",
+      "size": 7948
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/blogs.html",
+      "sha256": "7f84cc1cd0b40efefeeb204e2b9cd5ddab91f733b734f52f14023e7382d8b3c2",
+      "size": 26832
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/bulletproof_upload.py",
+      "sha256": "7717be60d9ad61a1236bb6c6a2810c9ca558eea9e314d7e01845436394b9980f",
+      "size": 5459
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/cango-empire-v4-monopoly.html",
+      "sha256": "3667382c7991728d0f6ec08a8ec1002d4e58cf49497dd75c00cf3493c9efd36f",
+      "size": 152391
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/check_server_files.py",
+      "sha256": "3bd00ea7a79fbafb3a42e43e8560fe9ad56467d92c3b1a87e3852ae08c4ee065",
+      "size": 2454
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/deploy_complete.py",
+      "sha256": "3886d8ccb8c430c865302849bd3a3f09090e35d18fa6f004f5f44cb6930c4cfc",
+      "size": 5319
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/find_correct_docroot.py",
+      "sha256": "1f839592c754b8e5d305f9891ca7c789d666019995c27a9c5958f5d844adbddc",
+      "size": 2880
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/fix_all_problems.py",
+      "sha256": "d11cbdc2792690ad7970e952af43e77281d355507a616371b66e9befbf5f1a44",
+      "size": 5046
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/fix_all_problems_simple.py",
+      "sha256": "d247f41a781bedfa8fa1c3eaa3c895826325b1940c037691f42d61eb39a81fd5",
+      "size": 4930
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/fix_complete_final.py",
+      "sha256": "948355bcf8faac0e304875336dd516154f064889e90a39d4b44c625797bf8a5a",
+      "size": 8818
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/fix_critical_issues.py",
+      "sha256": "527ddd4f8e097c975059c0785cda82d0962a504aa78ba7b4556921a6c8eb3b81",
+      "size": 5420
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/fix_issues_auto.py",
+      "sha256": "1644d40075f275d90fc04bcc8971601fe4baf8c5ced56b090cbc27c2c2ba8e4b",
+      "size": 5894
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/fix_produkte_final.py",
+      "sha256": "46ba9e6b3825ec022aebab64d53826f0f130fdfc7df576dc38883dad31d8e8a2",
+      "size": 7197
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/fix_real_issues.py",
+      "sha256": "0f464e0bd15cb34ced0adb3833899a58ef9fcfa02eac253d396684f9812d7d0e",
+      "size": 4723
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/force_upload_with_cache_bust.py",
+      "sha256": "2dc7d4f274d7504884b1950c5d14e9988f0e4404acf3b2fb56c67ac95fec12ab",
+      "size": 2813
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/images/founder-canberk-kivilcim.jpg",
+      "sha256": "c7cd8747f1c4d1f17bd973f99f2a397b3bbff0c424781dfd6638d3242607ec58",
+      "size": 246247
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/kontakt.html",
+      "sha256": "a4e479135a25316abec5db9d5895959b1355048ca0b8fc9a11cc42e5c32cdeaa",
+      "size": 16774
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/marktplatz.html",
+      "sha256": "83f01020ff062281cfd599d05e8006542016cb07c0c4aa6f93fa17b134be608e",
+      "size": 25950
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/produkte.html",
+      "sha256": "fe6bec6010d099dd2010fe0010f05f28398ef073fdd75333b628b1b8a521c9ef",
+      "size": 17579
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/produkte_complete.html",
+      "sha256": "6db2bdab4b48644106d836ecc64b9257e108f8f1e03691a9d704cae75ee2dc23",
+      "size": 354
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/produkte_fixed.html",
+      "sha256": "58c0090ba2a6895d279a1f516ae9c55dd59dcce64fe852bd7ebcbd807f5c0dca",
+      "size": 41307
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/produkte_fixed_final.html",
+      "sha256": "2ded9be008229ec6a02b682576b12b608a352f2585d0a1fb59c8e2838f522025",
+      "size": 41698
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/produkte_server.html",
+      "sha256": "fe6bec6010d099dd2010fe0010f05f28398ef073fdd75333b628b1b8a521c9ef",
+      "size": 17579
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/show_cloudpanel_steps.sh",
+      "sha256": "879539b50111244c31438072e07e47b96bb8b34e313dea41135a05471a2a9e32",
+      "size": 3419
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/test_ftp_paths.py",
+      "sha256": "e1547e80b0e44d48534a0d8c1b82ed16897e3308ffd23ef464cb86a1000ee36f",
+      "size": 2585
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/ueber-uns.html",
+      "sha256": "24bcb2c369f1c79ecc50de3fe2b346c98b65399e08c66f17c892f9b24ef90639",
+      "size": 28230
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/ueber-uns_server.html",
+      "sha256": "24bcb2c369f1c79ecc50de3fe2b346c98b65399e08c66f17c892f9b24ef90639",
+      "size": 28230
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/upload_all.sh",
+      "sha256": "0c36a1f9b804a64c97caed340d8ea2cf381772586b16c48177c872460d220dab",
+      "size": 1694
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/upload_fixed_only.py",
+      "sha256": "43666842337fd154d988b8bcd9d188729b1baf047cc52fcb544a4e13ab931059",
+      "size": 1642
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/upload_fixes.py",
+      "sha256": "b6ef2d71e72656ba447854a302b8e563897276da2b7fd9ff65cc0e1a0e637e38",
+      "size": 3532
+    },
+    {
+      "path": "opt/cango-empire-website/website/public/upload_via_scp.sh",
+      "sha256": "1b2f98d0ced79b865f191993a3e54f6e78a49b6583995ea6fd08bbc78322f4d6",
+      "size": 3309
+    },
+    {
+      "path": "opt/cango-empire-website/website/script.js",
+      "sha256": "6d04bd1e62cc34f43b18d378445d14564a13c694d1dcf90e04b6ac8bf544711e",
+      "size": 6063
+    },
+    {
+      "path": "opt/cango-empire-website/website/selfmade-empire.html",
+      "sha256": "99f393d958e42d3c43f1b7984eaddf72b4e81011deb275efa56c8028149df20e",
+      "size": 17474
+    },
+    {
+      "path": "opt/cango-empire-website/website/styles.css",
+      "sha256": "fe6afcbe99244b0c471bb4681aa2ee0ef6e070a30a86511b3c4948018851c98b",
+      "size": 25084
+    },
+    {
+      "path": "opt/cango-empire-website/website/test.html",
+      "sha256": "2463620d0544ef35da0980bdf0d0d023110c6b8bfe693ac7f93ff5049d74adce",
+      "size": 168
+    },
+    {
+      "path": "opt/cango-empire-website/website/test_local.html",
+      "sha256": "89f7dd6b4673c41ea1697125f0f5cc61d8bb92fece3a0dad6f56d7737f0ba7d6",
+      "size": 483
+    },
+    {
+      "path": "opt/cango-empire-website/website/tool_detail_template.html",
+      "sha256": "c05e8ff636f8299e8e1937abe54a5591adfa1b657806831e8a37ff07835f017d",
+      "size": 22900
+    },
+    {
+      "path": "opt/cango-empire-website/website/trading-school.html",
+      "sha256": "116d8b3305447d0065d87c66f8209a4d9c9d5f04361b257f2ed0437d0dde46f8",
+      "size": 22460
+    },
+    {
+      "path": "opt/cango-empire-website/website/ueber-uns.html",
+      "sha256": "c5aadbebb307c1993bfbe1fadb6100ef7b5a5d4ead2b585acc12227dcb46a0f9",
+      "size": 72764
+    },
+    {
+      "path": "opt/cango-empire-website/website/update-affiliate-links.js",
+      "sha256": "a8eed7671ec909519d1777673726248e70aab0d769b58d4d93590c34c58e22e9",
+      "size": 4084
+    },
+    {
+      "path": "opt/cango-empire-website/website/widerruf.html",
+      "sha256": "4a02c77bc78628b754b04c890f3f85a2a90781b96f2fd6e11cf260b1b8d025b3",
+      "size": 19679
+    },
+    {
+      "path": "opt/cango-empire-website/website/workflow-detail.html",
+      "sha256": "44a7bb238fab6e31f71f5311093d631ef2b2061824765687c9197b5fea3d53ed",
+      "size": 13955
+    },
+    {
+      "path": "opt/cango-empire-website/website/workflows.html",
+      "sha256": "62b43b17fc93d9753b4360933d66af5765d9ee3108431d879cd6f28baa7bd877",
+      "size": 27230
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/.htaccess",
+      "sha256": "b15b9c0c8543cb206e654bcd19d77cef33840bb60084080c7a26cf4f27db8fd7",
+      "size": 26
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/about.html",
+      "sha256": "e2ae806bb359c41f15ad389ff16eacffb1c2e6b578d7a7b39fe1c620d01aa789",
+      "size": 15415
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/agb.html",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size": 1
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/cango-empire-v4-monopoly.css",
+      "sha256": "1eaef8ec23e3e3b798cddb9edafed272fbf979b9483adb0e9deaa20e39ceb5b8",
+      "size": 26342
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/cango-empire-v4-monopoly.html",
+      "sha256": "1a833a4e75685d7fd4cd99856e8dc4ea81527bb9b4982bb53719a9142bef7590",
+      "size": 144909
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/cango-empire-v4-monopoly.js",
+      "sha256": "dbcad9a438afa5ce00191a9ab14f279b3cc82da5e3c184bbd3cd86cd21902955",
+      "size": 27549
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/cango-empire.css",
+      "sha256": "5e94d54ad5860298139a7368f41afbb9472bbbc4d93d481991812c642d0e6a13",
+      "size": 12327
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/cango-empire.html",
+      "sha256": "3007f2e0b613a2720130aa79211f99ab1b5d90f2441da1fc84cd1b7952598780",
+      "size": 14238
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/cango-empire.js",
+      "sha256": "b236073cc5143dbb5851971ddf093ae862ab4f7476f0c3d82fef3b750281508d",
+      "size": 1615
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/checkout.html",
+      "sha256": "047d4a87a6d18959e33b701e79ef04dbc665bc6fdc41e38249039a1b9e653834",
+      "size": 39450
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/dark-factory.css",
+      "sha256": "476940e1f728531ded9a6df457291779cfbd50fd1e1425fc43f406b988c8dda5",
+      "size": 74631
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/dark-factory.html",
+      "sha256": "db2cdbb3ed7c836364248fcf52053fe9b88486a700cfc031047f00b94344663e",
+      "size": 136553
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/dark-factory.js",
+      "sha256": "fd66ecb14b0eb899d32a8099e6fee8473aaf3d019b53d2425f87c7fb8cf4a639",
+      "size": 20659
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/datenschutz.html",
+      "sha256": "818fb86c6bfebca25e9bfb3f88cbb64099ea34e5a686eac6d4f0e3c7892f32a4",
+      "size": 17589
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/depositphotos-integration.js",
+      "sha256": "31b6b3a55021b2c7c27c3fa5d956075732c50a37c5663f8a0e0e8efdfb4cc2e4",
+      "size": 16581
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/domicil-grundstein.html",
+      "sha256": "3b984dc4271aa83e37c231f2d6a5edc06ce94f7540f1a477ba145da9e3cef9fe",
+      "size": 27170
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/impressum.html",
+      "sha256": "3c239d3468663e7d737121fc85f9ffab07f69791a5474805d2b469a99cfda59b",
+      "size": 11654
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/index.html",
+      "sha256": "efcb75f736ed962699c4a8045a1d010744b9871bbf543000ff2f43b208554733",
+      "size": 150630
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/kontakt.html",
+      "sha256": "74fface28f301ff4de92d4f50a0b88a9665b7e0208163a01b302ceb09e82f8d1",
+      "size": 12402
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/UPLOAD_ANLEITUNG.md",
+      "sha256": "64540d37c938d5e430c5a51065970ddedfbbbc6f93e44ae1069b2dfae26ad7d7",
+      "size": 3558
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/automationen.html",
+      "sha256": "fe9f3f45d8b982316eb8bfaa75766292fe8885f582653a5236319de81f0022c3",
+      "size": 5906
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/coaching-mindset.html",
+      "sha256": "da28d54e08ad7d4ba78961263e103639103d4dda3743a0fc93803908278c79b9",
+      "size": 5934
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/crypto-web3.html",
+      "sha256": "d0d4b80c2c82555e741eef28cea8c6f4c857aa59bf893da4f1e83c1d3ab454e9",
+      "size": 5911
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/domicil-projekte.html",
+      "sha256": "dca1bbc5f508b68c59a40c80278a3294860f66a3e917dde264a6e6b773376061",
+      "size": 7938
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/energie-solar.html",
+      "sha256": "05538018d207432096dbdcc19e499773b4d0783a29223952c7528cc043190cbb",
+      "size": 5918
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/finanzen-versicherung.html",
+      "sha256": "4a4f4fed1edb654bde953d6a0d32213327f570bb784c463247610a7876e65587",
+      "size": 7144
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/grundstein-projekte.html",
+      "sha256": "e3bdfc16a3ab8d677685a6ab132ae79d83f5fc50620ab2fe83179e87758215b8",
+      "size": 7971
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/immobilien-quiz.html",
+      "sha256": "413e7ac66015e0f043f4ab3b289498165e72a3134f97cf32491e484eb2794fe3",
+      "size": 10159
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/immobilien.html",
+      "sha256": "36c926fb8108a57933fcd5b748cc17d9d196c103768696f0dc56fed543210cfa",
+      "size": 23634
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/karriere-hr.html",
+      "sha256": "bdc828379468ac567203fc9edbbebf5838652e94b8def0c179a1e0ed7dd114d5",
+      "size": 5909
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/ki-tech.html",
+      "sha256": "42311e61574bc80a44448e58d3f5cefd4c82bfc014793f77644cbbc5073c0334",
+      "size": 177054
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/ki-tech.html.bak",
+      "sha256": "9d0462e03977f4a5630e13881410c39cde917ddd4886bf134ee75fe39811af3b",
+      "size": 166450
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/ki-tech.html.bak5",
+      "sha256": "5a325ce8d38ba61b3103e56328707bba3345123643532bbf6c8e9fd76f3a4943",
+      "size": 167574
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/ki-tech.html.bak6",
+      "sha256": "ae7ff9009d42dfe185e27016c6db4bd65208db9d5ff5449bd27a47cfe693e36c",
+      "size": 166299
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/ki-tech.html.bak7",
+      "sha256": "9023940f72f9f1ca0af1bf0186255f3823eb026576939bd1ccc135eaf2520338",
+      "size": 167672
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/ki-tech.html.bak8",
+      "sha256": "976dbe9dcbe0039169e57043be05646493a6d1db405042d0d52884f28553871a",
+      "size": 166628
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/ki-tech.html.bak9",
+      "sha256": "7b4cd3c81460d1d949966acd7df8d3d01171d702f4d8012228a8c1083271990d",
+      "size": 148845
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/mitnorm-projekte.html",
+      "sha256": "8ef68c3615a4992c2d7ed7013cad823a96ba2158f4fc16f5b0beeb685f760302",
+      "size": 7929
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_all_remaining_tools.sh",
+      "sha256": "1729ec5b5c608ba9712d2ca22052ac02c55a56078f1deea58f22d762f85c66ac",
+      "size": 288
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_all_remaining_tools_complete.py",
+      "sha256": "4ac0106d2f47a3c5d7a4728a2ef40139989e675d0247d81d5b0ee4875bc77a12",
+      "size": 12111
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_binance_api_complete.py",
+      "sha256": "41b5b1bd5ecb8297ce400b19303ada7cba3fafdce904ebd5348b606182ec086e",
+      "size": 22699
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_claude_artifacts_complete.py",
+      "sha256": "72797b392f27bb8c5586d84a53bb37e198a0fc2e057e8207323c732979fbac77",
+      "size": 23179
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_gamma_complete.py",
+      "sha256": "64e9df357f5b4b4cb30b93ea1ebf476a72624a3ba6dff731930a05fdd7267aee",
+      "size": 16930
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_goose_vpn_complete.py",
+      "sha256": "819b2cafe88b69a5e20ce5267bf06fdba12b94af1d6f895b3ce3d8fb62fcf178",
+      "size": 21907
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_hostinger_complete.py",
+      "sha256": "42723a603726db9128965c843efddcf8912467ed3768943111530df6547396be",
+      "size": 22811
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_luma_ai_complete.py",
+      "sha256": "b8fa4250d9d0312d4fc83765d15561378fddaf04b3afc2ee78e86a6ac07692db",
+      "size": 22935
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_mootion_complete.py",
+      "sha256": "0be839bc0adb5a585b2a1b9826f354ad88609e487fb4bed573f3511c83f85105",
+      "size": 21886
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_nocodebackend_complete.py",
+      "sha256": "5ab57c64657514c4bebd19a2268ade713a5897604fd14bec7d530af478faba4e",
+      "size": 21859
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_opus_clip_complete.py",
+      "sha256": "388e1525013461d427bee007e7172bc985660b5932f94d880d3a9dec63af50ac",
+      "size": 22282
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_reap_complete.py",
+      "sha256": "e67cbc6ef461d02e31a0030032df3b8e40560aa9a36fcdd1e3abd110581f103b",
+      "size": 21880
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_sociamonials_complete.py",
+      "sha256": "09ae9c4a81340a642bdfb9418d29ab84f6302914554684a8885e3fa9bce992fb",
+      "size": 22970
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_tidycal_complete.py",
+      "sha256": "8532c8543a3008c3c86db9acd3c06d9c7cb222a9712b6d5de524b4d8912770eb",
+      "size": 22187
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_tome_complete.py",
+      "sha256": "dd03d2c1441b0b29945605b04912eb2434ec8f1286d3e67a4cfda07db3f2ee4e",
+      "size": 15037
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_unmixr_ai_complete.py",
+      "sha256": "15f14ba6de62de95268cbb161a32497ead5300c2f5dd3075e56ec233bf8a7876",
+      "size": 22355
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_voila_complete.py",
+      "sha256": "e3d1d904bf97f9acec2fff00446f0dfc04ec5a033ad344b7833700a40e455981",
+      "size": 22655
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_yapper_complete.py",
+      "sha256": "4c855c12b240276956bd81ab3680e2d0af70d5a47ec1dfc8efc3999267ac8aa8",
+      "size": 22134
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_zep_memory.py",
+      "sha256": "7d3b974be3a4ca444b3fd464160122969ee84968a3ec87e12013926f84cde8eb",
+      "size": 7245
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/adapt_zep_memory_complete.py",
+      "sha256": "5028f7c9e1dbcda2025979bedf056c54b7807e9bcb168ed59848176148b204b7",
+      "size": 22572
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/ahrefs.html",
+      "sha256": "61525bbfa5d716d0c921e5ca079b7b65eadebf1b8d97e9e9d0b2c71c793fb41d",
+      "size": 20680
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/airtable.html",
+      "sha256": "68664e3ece3a647f42b7d3a875873979e0544616c9aa6aa69a546a8964616fd2",
+      "size": 20725
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/asana.html",
+      "sha256": "5c1d01f8d38154f065aceb05a6f67c01ed442220b857674d5cfbf9384773b599",
+      "size": 20510
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/binance-api.html",
+      "sha256": "022f1e0fa3b6d52fa1953d13fdbfa6137ec2a70a5b278fdd7624e37cd03676d0",
+      "size": 20673
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/bright-data.html",
+      "sha256": "2d70398e38595fc216c165030d12c98d685651d5ecdfc3875a75b67f143d8e02",
+      "size": 20767
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/browseract.html",
+      "sha256": "f7ad904ec23b04f1105bced3b9b1f5c4936d6954b9228c91fce3d68b4cfa2308",
+      "size": 20826
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/bubble.html",
+      "sha256": "f043de703e75c64f6e3e0fe7f18d84b284fdcfd78d1f63948249538e07f4bbc0",
+      "size": 20538
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/calendly.html",
+      "sha256": "21b22f1c8f930dca7ff796b32987dc9680c97c2bf2932b030f8c1bcdd5b4126f",
+      "size": 20610
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/canva.html",
+      "sha256": "93e918ecc0fbf3bc87c36be1e61cc5166734a5d2b37d1525bb47c6270707f2b8",
+      "size": 20615
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/chatgpt-plus.html",
+      "sha256": "8e9c34b2611d97fc51e394f2c1d257181d30a3e1a2e2929ea5857e5c547d1c2a",
+      "size": 20900
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/chatgpt.html",
+      "sha256": "2c5406a1b428e8792290f49678349b4703dd6c3bb533abc9dd6cb25f1c7de813",
+      "size": 20569
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/claude-35.html",
+      "sha256": "65f25df027ff32359b0adca56e033a2b64ed223fb5e7b72ce14a4abf13f494f5",
+      "size": 20990
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/claude-artifacts.html",
+      "sha256": "76e97162ff4cd35a9fe4251de92de9de3658d1563ecfd87eb0db7b5228cbce0c",
+      "size": 20865
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/claude.html",
+      "sha256": "ec9c47289ab397dc6047e2a8548b473efd4dea24d6974f50c02ec796f9ec217f",
+      "size": 20630
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/clickup.html",
+      "sha256": "0d1da7387e249c835cd67994f43e8c0d5f66795bdd4edb85e2f2d0d16c59d1c5",
+      "size": 20580
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/convertkit.html",
+      "sha256": "2c588cb69a7ebbf534739b1e8e71a757716988630935e02b44a23314a9f8eb55",
+      "size": 20643
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/copy-ai.html",
+      "sha256": "0c3bf215812effd5154e5c6b91fbf8b63a5580cd5f828eb6bdc61c3d214d3749",
+      "size": 20705
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/cursor.html",
+      "sha256": "891d8fabbc33cb07c172ef37e5d08b2b560d1b99b3bf4e5ab33f2c875bb13dd7",
+      "size": 20649
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/depositphotos.html",
+      "sha256": "efa038161bb144e22767c20092c12b7f21b2ef769c3782f7efb19e1ac1468a42",
+      "size": 20907
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/descript.html",
+      "sha256": "4dcc220ec1abff0e694abd7d37b84e2e5470648d56e13be0ea73d7142c8fe2ca",
+      "size": 20800
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/discord.html",
+      "sha256": "6295cdfa1c7ae9b80fd731284ecc83c2a91d360dfed9d1e428c9c055b39e563f",
+      "size": 20558
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/elevenlabs.html",
+      "sha256": "3616febd70a94bc9775c76b0071b395c8032dd3123079fe4718bc9184fdec40f",
+      "size": 20792
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/feedspace.html",
+      "sha256": "67aadc5e5c258848e9f16629535090c4224c40e8bfbccb02729994f588b76437",
+      "size": 20696
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/figma.html",
+      "sha256": "d9524d934ed3414d13785d140d426764f640c4e5f2225ab079123cb828a77e2c",
+      "size": 20530
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/firecrawl.html",
+      "sha256": "b37d7aecc7e74222e046f1cd1934232bcc7be061d5f579661b5a674789d43455",
+      "size": 20797
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/framer.html",
+      "sha256": "43ea03efc033821c3aabc2a1c81f2ec2e4e0b76e130a84b04ac37d27cdb4d9bc",
+      "size": 20551
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/frase.html",
+      "sha256": "36d4ac4e9faef9609603222010e44d8145928ae593756a2a301466a7fdd9d96a",
+      "size": 20563
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/gamma.html",
+      "sha256": "2a3d07e540fc543a67b72e4eb5b784cb95883021cde382d24f2f23b84b2bc827",
+      "size": 20569
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/gemini.html",
+      "sha256": "31c62361914878f63226880bd0df002fd8f8a3bce963bfc4e44f01322d43ad85",
+      "size": 20691
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/github.html",
+      "sha256": "a913195a812d8ee5a65c4182f0324a1f73be1d602ebe47fa3bcfea88e8e698e8",
+      "size": 20593
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/goose-vpn.html",
+      "sha256": "432e06d18d796242d41876974376183dfefd9dbe4eb76a02adbd96266e19cdae",
+      "size": 20663
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/grammarly.html",
+      "sha256": "a95778ba7d5c50dd54dcde84818152f950a9b881e361bf563fd4142a7dd47670",
+      "size": 20672
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/greta-ai.html",
+      "sha256": "a52c1ff7a5db484be46727d11e9c0de04df940cfa2006d4757d25cfe3100c981",
+      "size": 20623
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/grok.html",
+      "sha256": "f3b8dc6403f21ccd77bdf42bc42f4b853a6d6d5f5251111ddd130200a49aa1d1",
+      "size": 20707
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/headlime.html",
+      "sha256": "4b672a8e475cd442fcd784b0be246f5ed8a5d6768a900ca8ee91490c2043d4a2",
+      "size": 20616
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/hostinger.html",
+      "sha256": "46978c86394367131c601212c27cd592b6ad2c2b1b78a02917d5b20288abf042",
+      "size": 20657
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/hubspot.html",
+      "sha256": "d3770144508c9622ee15772f409f77175bfda7b367e2192a7f048effc36b6e30",
+      "size": 20609
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/hugging-face.html",
+      "sha256": "b453a73530f93c6e8d64cdcacdd79437b8043cc8efbbad154dd342cb3e86b6c2",
+      "size": 20776
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/intercom.html",
+      "sha256": "fb5c0281134e6ecf01ca6e39a4ecbd10131f678ce93dc46d865724184e43f524",
+      "size": 20591
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/jasper-ai.html",
+      "sha256": "dc21d89649224e257d5be74bcd0020e682e1978d88c4ec4ceb3634dc965f0aba",
+      "size": 20727
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/jira.html",
+      "sha256": "799771c7e5d0d3dc20ce0539b9a4e96b666570a2845a82730b7a7ab3a99bdf33",
+      "size": 20502
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/kajabi.html",
+      "sha256": "47984fbad6b986809bed270b14597c750db7d1e516fd86ef06a1bf585ed3b78a",
+      "size": 20543
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/katteb.html",
+      "sha256": "3b13d1bb2a2025fe58fbacd470243090282c0aadaa8bd5e90a06bc9479858f62",
+      "size": 20692
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/langchain.html",
+      "sha256": "580d617e0ec1a9eb8939ed8184636a7a0aa5d6316bdd92731f903d5a1d8c6bb9",
+      "size": 20703
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/linear.html",
+      "sha256": "c170d0fdd06e22c015b0eaead235c3cb58f6e64271c82d3c5e54fe54ed859f6c",
+      "size": 20590
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/loom.html",
+      "sha256": "801a90064a8a1afe121d912840a5631c9bf734a7e1c4fe478f8f5361bde4c681",
+      "size": 20545
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/luma-ai.html",
+      "sha256": "8396c2be1ef5b12c49118eee247a1280c4800a441d453ca10de58edef4ad878a",
+      "size": 20572
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/mailchimp.html",
+      "sha256": "b86dc05668b75e7759d6ef2537ee6a72d4a41bea18187020959dfa60247c9def",
+      "size": 20646
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/make-integromat.html",
+      "sha256": "d22a19bc4d3ec9582aa902747ef7136a0989ba2f0a1d4d4bc36320459dd0a0cc",
+      "size": 20937
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/microsoft-teams.html",
+      "sha256": "b36449ae3dbab71310243d576e6c661625c91b5090c68a4acb6fdfb3829e810e",
+      "size": 20788
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/midjourney.html",
+      "sha256": "3ce1109c6fe088144e389b0d2ae1a2933650c5ceafa0c5d9419e521d32972545",
+      "size": 20781
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/mistral-ai.html",
+      "sha256": "f2af8d0493204de1bd049e8520b723e99a19207216af496606778ff5929489ee",
+      "size": 20790
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/monday.html",
+      "sha256": "b7fc5609875279fbeac762dcc3741b919914f58149e68e60f4c31c7d33878e30",
+      "size": 20575
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/mootion.html",
+      "sha256": "208f2b052da71b3fb30937716b7ccc0d514b4f6841210c910b11e85680593790",
+      "size": 20600
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/murf.html",
+      "sha256": "293d1b1a7b5da2933425dc06f6ddc8dc6154f5a25b25160f3ba3fff3d4d1a97f",
+      "size": 20573
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/n8n.html",
+      "sha256": "590809db4293bc1407e09bc4c72c4aa8aec61f84facc1c99a0dc4295225e3aa6",
+      "size": 20650
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/neuronwriter.html",
+      "sha256": "1ae87eb2268def15e7cec319bedaead36368a25bc3fff7453f0c1d496f94c1d4",
+      "size": 20858
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/nocode-backend.html",
+      "sha256": "ab4e4f89509841262b1b6308f6111a1b6d1f6d0b98682b68bdbc1be6bcd59be9",
+      "size": 20774
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/notion.html",
+      "sha256": "35dda8b4ec2b2def7862d618fea29610460442d1d197900eeb9165da54890d6b",
+      "size": 20769
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/opus-clip.html",
+      "sha256": "b29ff8695dfc3c617b718945557eb7a06614a4000b490091284dabe7e24a0167",
+      "size": 20775
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/originality-ai.html",
+      "sha256": "8c5aded81c8c20a906396721e7f3e1f8415e4c7c1d2ce76cf583f7e6bae44e51",
+      "size": 20758
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/perplexity-pro.html",
+      "sha256": "ece0e4135fc69c1ef7abdb47a44e17da209983314357d429c2073eb9dd852ec0",
+      "size": 20891
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/perplexity.html",
+      "sha256": "9217443a24fc7ee2126a1c7d54e99841d2677bca7ee376803c98795c80f5a3bd",
+      "size": 20652
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/pinecone.html",
+      "sha256": "7f111aa8769885e295c9b3bd1f236b44ec2fef164b2bd3e2b124bb3183e18feb",
+      "size": 20666
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/pinecone.html.backup",
+      "sha256": "454b1ddc00f4051c77840bcf00f2d14cbfeea998d6abbdf2fc85e63e55471bc1",
+      "size": 44402
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/pipedrive.html",
+      "sha256": "d671899f77f21be20cda46eebc48df8a888385d66def78745707050acd60a488",
+      "size": 20612
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/playht.html",
+      "sha256": "2a48088d16488fa602fdd4115191fdc192d4783c7fb01780fe714dcc35971d44",
+      "size": 20584
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/podia.html",
+      "sha256": "b58cde84955ef4490e47cb1e4c69a0782fa9acd3ca1aa0d3d8d4744102c00dae",
+      "size": 20553
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/quillbot.html",
+      "sha256": "47797173b44960a2329614a4d2653ccf4104e51ee3a208211618a59162418505",
+      "size": 20619
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/reap.html",
+      "sha256": "8da3ff9c70d77b2a52c934bd5cb853fc4b34966b768c7f4d1ed65f6f534c4a0e",
+      "size": 20600
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/runway-gen3.html",
+      "sha256": "d3f431e89f6628e641592a3cc6a540f99241f81264f20424fd1525311330c810",
+      "size": 20760
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/runway.html",
+      "sha256": "c3ff6887bcfa6c2a31e1f9e2b3a12e2db667b1e71c4d473e0cc6a4e56b95545b",
+      "size": 20601
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/scraperapi.html",
+      "sha256": "311b4a2378b942ed49e50cedd50f36532bcecbb5b4b5bde77b3e3f363587204f",
+      "size": 20769
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/semrush.html",
+      "sha256": "2195b2dc07ef56fd7e2eaec042eae1c735f7944a40388dc080fb906b2b53f3ef",
+      "size": 20683
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/sendgrid.html",
+      "sha256": "e413d7bb4ed3e300ddd4a30fb1981f730554615d942a0d3f4b86c10f0aa8f716",
+      "size": 20609
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/skillplate.html",
+      "sha256": "2cbb2ddf94833f534c18cca0c8c9cae5ad8af0881e52e4473ca397662825dc1f",
+      "size": 20691
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/slack.html",
+      "sha256": "c08d702ac7120973d35c51288069e6b2a424f52a1d7fc08e299579d4f4073818",
+      "size": 20530
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/sociamonials.html",
+      "sha256": "26a5a700e235d01fa48a48a1731103c1c84e13e3904488e61aee644ed7bbf652",
+      "size": 20777
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/stable-diffusion.html",
+      "sha256": "e3528c8f3997360cf0ba8b854c9203ac82a98ba9f84fa230fdcfbea366e744ed",
+      "size": 20925
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/stripe.html",
+      "sha256": "2a4ed0f78cd7ce8a897e9b6d8eec0ce25f7d6344c1c523123178e529a9dbce9f",
+      "size": 20575
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/supabase.html",
+      "sha256": "8080e45eb74aa7d9cfa076128f44a804244a326f90f8075c587a7a8f17d8a776",
+      "size": 20695
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/surfer-seo.html",
+      "sha256": "a98a562bd1ccbf63acdb3f347e14acaf7b222e4d2d2c5e3f2839fcf3997e7a1d",
+      "size": 20764
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/synthesia.html",
+      "sha256": "8216303f20ff0260e5b583bd13d6c30dd1cda26287c8546f9afbbddf6ec8a213",
+      "size": 20700
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/tally.html",
+      "sha256": "d8e2e84e542e4fd4920c4277720bf0f6c7a511a71ce6ebb2c413462fc4ea5f59",
+      "size": 20478
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/teachable.html",
+      "sha256": "a936c842073a03ce4fcb306981d3d4438d1183a22b37c58a0b118203d0d3a2dd",
+      "size": 20656
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/thinkific.html",
+      "sha256": "d6597d0204b73255b6837cd2f616fe91dbfb6d901a848d42fdb58f22e6cd8309",
+      "size": 20594
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/tidycal.html",
+      "sha256": "744339788b7086b7a63b337a881dcb27ed27d3b82281cc643e4dbceb1dc9d579",
+      "size": 20650
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/tome.html",
+      "sha256": "2c884daeb7f047805d2c4dd4c40374b78c79fa514fe95f1dc309af146ec60c9f",
+      "size": 20535
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/tools-detail.css",
+      "sha256": "6ac607b40b0cc31f974ccb1918fe2a5ca447fb3a9578b0d0a806004262d2ab4f",
+      "size": 14284
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/trello.html",
+      "sha256": "1c1592969bab65bd95f284bf16e126ae1444ec7ab35076f5cc737df719e1da3e",
+      "size": 20521
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/typeform.html",
+      "sha256": "23464e49b2d21a029919e4c63f2ebc50f67fb0f747f7d1adc48d10691ab08195",
+      "size": 20633
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/unmixr-ai.html",
+      "sha256": "6c254244e83b6f1266b0daa81655ebde065925946a664701491f1356d3cf93b2",
+      "size": 20635
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/vercel.html",
+      "sha256": "271e8ee9afeed430f1ecb9d99ecf8cae3ccbbc5c68834bbaedd847929cec77a8",
+      "size": 20559
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/voila.html",
+      "sha256": "d8deb1e904c7fc4ba8d76b79eaf6c0cef55a8deca9694ea191b81490ffb35f76",
+      "size": 20543
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/webflow.html",
+      "sha256": "51952672a01782a544a50d4053713fc68725d14b1183ff05c04c3c3ccd520ef5",
+      "size": 20590
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/wordtune.html",
+      "sha256": "f484558cf1a1d05ebea119eebcbd6f2dc578692caa6a1b2183d017095da02cc8",
+      "size": 20617
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/writesonic.html",
+      "sha256": "2bace3e5289b90c2bef606d4dbbd5b694bbe501d48a08ae9f1042a1973836adb",
+      "size": 20673
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/yapper.html",
+      "sha256": "04d214d8b7d5f5b1ee790b97de24f0bfa43e6d7c1b8277a04ba56f8a17794558",
+      "size": 20530
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/zapier.html",
+      "sha256": "fc78ee69d0f780eeaaa0cb44b219f70b23e58e9315e6297a43eb2ba4ccaec225",
+      "size": 20665
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools/zep-memory.html",
+      "sha256": "1b34b0c4ba6fb6db7e272dcfbbaa5a61f14c51eddd93dff65a3500e6cf6a3a14",
+      "size": 20775
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/tools.zip",
+      "sha256": "712794470842f698c106fb6ac1f88bfcd8072a5c864ed77c9b16525b68508e7c",
+      "size": 803972
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz/trading.html",
+      "sha256": "8d5b85e57693feb4c2aff0ec616483a6d0246934823fa95845dde4abdcf4e148",
+      "size": 5958
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/marktplatz.html",
+      "sha256": "53b2db8093f07f760624ba2552efd1f1b309c3cd7c0c6bf0781095a14e08e446",
+      "size": 8333
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/nischen/energie.html",
+      "sha256": "9bc223284e584b9ff17d087d3acb1c4c9d5ba4d217ac1d8386b8c3b589bec7ef",
+      "size": 7199
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/nischen/immobilien.html",
+      "sha256": "76609fc38496057c2a75279779474c0b74ef2e73eea829ba3d091f079546a83e",
+      "size": 7246
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/nischen/karriere.html",
+      "sha256": "89869385d17cc4854296d648426532a93cca34bbde19a1440dc984cf97a7acf8",
+      "size": 7238
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/nischen/ki.html",
+      "sha256": "dd34284637f42cd9b4671ec45907c627ecd709da748603cc195a7344dd52fa40",
+      "size": 7190
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/nischen/krypto.html",
+      "sha256": "c27f7227e5764c86a5bb17d863b542f7787ee945b5d3939cdc95ae13a6fe4701",
+      "size": 7200
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/nischen/mindset.html",
+      "sha256": "64e94afbcb50767f78f2e27feeb9df360fc20e556efc1b2bdaa018ab3aee5917",
+      "size": 7274
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/nischen/vermoegen.html",
+      "sha256": "affecf9bb1844e6e08680ef1a38c96c5aa0294f44b42208ceb82767e8d62c155",
+      "size": 7336
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/pitch-deck.html",
+      "sha256": "a942856f16cb25133e64732d3d3da445f06e2c22b3f930cabaf106266a1d78d2",
+      "size": 21687
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/script.js",
+      "sha256": "6d04bd1e62cc34f43b18d378445d14564a13c694d1dcf90e04b6ac8bf544711e",
+      "size": 6063
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/selfmade-empire.html",
+      "sha256": "37631ae4478314e8ac3d0cecbe339bb3a9edd003fd83b529faa108592dd62f4a",
+      "size": 18006
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/styles.css",
+      "sha256": "fe6afcbe99244b0c471bb4681aa2ee0ef6e070a30a86511b3c4948018851c98b",
+      "size": 25084
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/test.html",
+      "sha256": "2463620d0544ef35da0980bdf0d0d023110c6b8bfe693ac7f93ff5049d74adce",
+      "size": 168
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/update-affiliate-links.js",
+      "sha256": "a8eed7671ec909519d1777673726248e70aab0d769b58d4d93590c34c58e22e9",
+      "size": 4084
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/widerruf.html",
+      "sha256": "6d884cebe3b386d2384bc00278b2440c4d0705b32ca3b5c12ad21453fc08d0f8",
+      "size": 17851
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/workflow-detail.html",
+      "sha256": "a206ee38df2257587acf79cf7e7bcb7b431e71c9b4d9981641c4824cf3f9bb5e",
+      "size": 12273
+    },
+    {
+      "path": "opt/cango-empire-website/website-from-server/workflows.html",
+      "sha256": "de6904c94808960883d075a9505371caf4d9d562709491b44d9aef47e1ecf126",
+      "size": 27666
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/5 Error Handling Techniques.json",
+      "sha256": "fd24417ebaa7fa65cf6f6e881e8c65619717d957fc03acf4a687a6ceeb7c9035",
+      "size": 29686
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/AI Newsletter System.json",
+      "sha256": "7ce878a647f18bc920ceeec9290ae3975111722c0fbfc7d77a71c4c99d3c97a4",
+      "size": 16641
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/AI_Personal_Assistant.json",
+      "sha256": "22e6d79406a83dacfd8249fa6ca03ae4b9be3cb37ddadac4fd5c46cd3637a984",
+      "size": 18100
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/AI_Versus (1).json",
+      "sha256": "797b3fc35d199dbcc7e7ccf130c99fb10b8882aad9db3c8bf44fadabfd602cd8",
+      "size": 66032
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/AI_Versus.json",
+      "sha256": "797b3fc35d199dbcc7e7ccf130c99fb10b8882aad9db3c8bf44fadabfd602cd8",
+      "size": 66032
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Agent Swarm.json",
+      "sha256": "fd3fdf924f488e5fc9caccbc9dd6242be594ab31ca386bdea90ba11cdd76ae53",
+      "size": 53833
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Apify.json",
+      "sha256": "c2fa443cd6d579b8de084b4151b6b99e3db7b3118edb6944872ee7bc6deed0c9",
+      "size": 5326
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Base44.json",
+      "sha256": "567a8d99965e838c3a1c63857b4f43afdc9322118ad80bf2446c5f0d4d9ffe93",
+      "size": 10084
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Blotato Posting (1).json",
+      "sha256": "88b9ed94450f0f1680cacea4c4547dbc12bbf71c4de50890d24c72680d70fdd2",
+      "size": 20372
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Blotato Posting.json",
+      "sha256": "88b9ed94450f0f1680cacea4c4547dbc12bbf71c4de50890d24c72680d70fdd2",
+      "size": 20372
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Calendar_Agent_Demo.json",
+      "sha256": "2e4183e64c0404f8ec1b67bfea9690fad40d9fe04cd403a158118ab5dd43f945",
+      "size": 6268
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Combine Images Nanobanana.json",
+      "sha256": "cabe500a2e91a6c8299baa2fdc0cac9730cdca4a84785b87139b8ac46598c92c",
+      "size": 11839
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Create Anything with Sora 2.json",
+      "sha256": "e7e81d82fa76fb61825507fb018ff528e662b5076c2eda1ebe55a0dc7a1b72fd",
+      "size": 37723
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Data Tables.json",
+      "sha256": "92e267a3af9f68803eebb5a94c81f851e3819aee81c26c4a938689d6b452a3ba",
+      "size": 27088
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Dynamic_Models.json",
+      "sha256": "969e795e0378d6b0464275976f0a24adf114b576ae1181c3d8c2aeb7ce1847ac",
+      "size": 29668
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Edit Image Nanobanana Tool.json",
+      "sha256": "0cb4feafd4628c9dde7b2adb4d06a63d10feac0efbf5383ca5a023aa80fbe268",
+      "size": 9905
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Email_Agent_Demo.json",
+      "sha256": "5f97870156e1353795ab23be99b13af4ca59151b58c14cc3346a0ffdaa9caeec",
+      "size": 6379
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Faceless_Shorts_System.json",
+      "sha256": "f811b3aa012ab3e275f037e7f7a5905cbe50391b382e026bd3f1c2160f5f7e3d",
+      "size": 41963
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Famous_Brands_Shorts_Template.json",
+      "sha256": "14b50dedd35878003c85972f38e29ab729f97c2452f6fa43d305317105ca7adc",
+      "size": 36402
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Firecrawl_Search.json",
+      "sha256": "9d74a4458df9d92bcffa474ebc9830f520e2bd00c8d9b0f1f1acee24f707467f",
+      "size": 14900
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/From Zero to Inbox Agent.json",
+      "sha256": "3b1e2f206d8007c649f5f64a87c89b897f1947d481632bd79a84ce64befc043a",
+      "size": 15263
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Gemini 3 Pro.json",
+      "sha256": "274d2836f3d5b631ee83c91147e25d543fbc3109c069f04a2ba91a1db43c0db8",
+      "size": 441970
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Gemini File Search.json",
+      "sha256": "075de4a77030a9231724b5bd651bb525c07bb00400c1bec90cc27036693409d2",
+      "size": 22901
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Glass_Fruit_ASMR (1).json",
+      "sha256": "d83ff9be2fdba21455822479c708e24ea447722def107680c6909f08a30f458e",
+      "size": 25185
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Glass_Fruit_ASMR.json",
+      "sha256": "d83ff9be2fdba21455822479c708e24ea447722def107680c6909f08a30f458e",
+      "size": 25185
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Guardrails (1).json",
+      "sha256": "ab1f70221e1623ae693cb15d144b6f6da4131ad37141a0f3232b52b556067195",
+      "size": 24935
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/HeyGen_Avatar.json",
+      "sha256": "23c079b6c2d581907f414380511225d2e5d5b3be3ca521cf1bbe5af7bf6d1e22",
+      "size": 16978
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/JARVIS.json",
+      "sha256": "b2ab403147bb54cd94ad93a21bc28bf09fd96873684eaa45b67ee0108bcb13e1",
+      "size": 9560
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Log_Agent_Outputs.json",
+      "sha256": "12d3c05ef58bb3912dbfe640d198bff698c4aa06be6f079368fb1b8f465de0bd",
+      "size": 27394
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Multi_Agent_System_Benefits (1).json",
+      "sha256": "34bfabf50445b6b1fdfc04573c8a392cf80cc169a05f425e7dd43fa3e1ad5a1e",
+      "size": 41552
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Multi_Agent_System_Benefits.json",
+      "sha256": "34bfabf50445b6b1fdfc04573c8a392cf80cc169a05f425e7dd43fa3e1ad5a1e",
+      "size": 41552
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Nano Banana Pro.json",
+      "sha256": "03cd78acffcd34c8b11763fd21d496471cadf0f2909556c26cb4d2b1704c5c13",
+      "size": 26225
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Nano Photoshop Agent.json",
+      "sha256": "cfbd3c521969a46e4108284563b3746674cf7a46cecb7151eb0255724a2e69dc",
+      "size": 22742
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/OpenAI_Image_Gen_LinkedIn_Post.json",
+      "sha256": "c6dc3e2e170d809bba9b1386a7ad568bbb4474a32fcd5124266908b3f287b723",
+      "size": 17623
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/PDF____Pinecone.json",
+      "sha256": "21f0f99817553941f877b60831fe3f09d5b452db749ca8b0dac9e5a17c48bbce",
+      "size": 4296
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Parallelization.json",
+      "sha256": "836cd1daf10ad849bdecccc1344dfd6ca5b5ab80e9ca09fc6df5367080afe894",
+      "size": 11687
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Pinecone Assistant.json",
+      "sha256": "c633ece04c9ce1aa375bef879f5707806fa736ec00c379fb1aeb8b40acd7897d",
+      "size": 19625
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Product_Videos.json",
+      "sha256": "ce6217c8c200275c01105411c63d0d291f933821fa881b15169a353689a11198",
+      "size": 20375
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/RAG Agent.json",
+      "sha256": "f0be69f5db37d0856dca1c59432d59a6ae126768929c7c1a6256d88fd0eeded7",
+      "size": 8716
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/RAG Evaluation.json",
+      "sha256": "f668cf8a573a89e46163a1cebe3eb2bc0533f4b8fb8c7ffa27d9376901de7691",
+      "size": 20251
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/RAG Pipelines (1).json",
+      "sha256": "ade45a338f36d4a0d7a629b1ffdfcb139742834ddfe01ebe0d5680a1e928d8d5",
+      "size": 17391
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/RAG Pipelines.json",
+      "sha256": "ade45a338f36d4a0d7a629b1ffdfcb139742834ddfe01ebe0d5680a1e928d8d5",
+      "size": 17391
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/RAG_Reranking (1).json",
+      "sha256": "d7bb398a9c9fae547ecf59106b5a58959820b4708956f1746616b3e995f445a9",
+      "size": 18705
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/RAG_Reranking.json",
+      "sha256": "d7bb398a9c9fae547ecf59106b5a58959820b4708956f1746616b3e995f445a9",
+      "size": 18705
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Research_Agent_Demo.json",
+      "sha256": "0c0bf0fa6f5809c0001ffed9cf0c8bd7a545d6124ba1148dbf01eb922a8a72cf",
+      "size": 4873
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Resume_Screening.json",
+      "sha256": "96ff0f75e82507bb3323a3af208df916571bdb4dfd9a8dcff5ae6c535cd300d6",
+      "size": 30324
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Supabase_Postgres.json",
+      "sha256": "baafb96eb911fdb6564964cddc8a2d8ab7ac89f3e71a66879788fe51344ba730",
+      "size": 8296
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Ticket Tagging Evaluation.json",
+      "sha256": "f16952ae5299df4fe73bb5f42a82c69892f802151ff2cee477fbaa41f8df4582",
+      "size": 10241
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Travel_Agent.json",
+      "sha256": "d4284dcc2c3c06cbb0d1a93d606752d6fbffefe059d0658e71bed6193a5a3184",
+      "size": 20159
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/UGC Ads Veo & Sora.json",
+      "sha256": "dc96a0ce562926e2a4e8e5578a60a203913c9b4bbe48bbaf8fae987f6955f688",
+      "size": 57530
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Ultimate_Browser_Agent.json",
+      "sha256": "ab2f29ba1e66a4e3472952e1a0aed1db02fd7d4a6d63c4bd2945303139265fa7",
+      "size": 19771
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/Webhook Protection.json",
+      "sha256": "0473222429755cd256ffaee64bd6eec2a18bb72c474616f67d2e85c01ff4f4d5",
+      "size": 3987
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/YouTube Chat Metadata.json",
+      "sha256": "beccffb7137ce311ca6f49f15bcbb09c2238b0891dfaad07c8c2486cce7219b5",
+      "size": 31306
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/YouTube_Strategist (1).json",
+      "sha256": "29fffaf9080612e18d7b1bf5fbaee81d6e985ab2e906ecbd2f0ff765dc04d5b4",
+      "size": 66543
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/YouTube_Strategist.json",
+      "sha256": "29fffaf9080612e18d7b1bf5fbaee81d6e985ab2e906ecbd2f0ff765dc04d5b4",
+      "size": 66543
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/ZEP Memory.json",
+      "sha256": "9190015d17ca50f90b4ff7f4f5b6b1d72c99f562c72d8e6c5d419d54cde53011",
+      "size": 24322
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/__Calendar_Agent.json",
+      "sha256": "4a70c7a2b9716789831c1e2f7902f1904cd9e0b154aa26e204ad2f7afd82b978",
+      "size": 9178
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/__Contact_Agent.json",
+      "sha256": "7708e561e7eda46ef893039a50eab9da7cd2990d3b19e74a0b4909679ede9ff3",
+      "size": 7587
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/__Content_Creator_Agent.json",
+      "sha256": "fb0e3576b945054095503ea20d1abf1ea52db69e14b82b3275591a98e5687930",
+      "size": 5575
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/__Customer_Support_Email_Agent (1).json",
+      "sha256": "4a956c8d23fc397b038ceca25c6c41df59a4d664df93106906e11e122869ac5c",
+      "size": 16128
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/__Email_Agent (1).json",
+      "sha256": "21731a02ea7300886b35f6be11b2aa0b2ee2ab3787bdca9096acd1a3288c056c",
+      "size": 9959
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/__Email_Agent.json",
+      "sha256": "21731a02ea7300886b35f6be11b2aa0b2ee2ab3787bdca9096acd1a3288c056c",
+      "size": 9959
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/n8n_Developer_Agent (1).json",
+      "sha256": "7e387305ef1bde6cd5a0fa89871a252c7f52b2344c1b70b54846990fde7bcb44",
+      "size": 14834
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/n8n_Developer_Agent.json",
+      "sha256": "7e387305ef1bde6cd5a0fa89871a252c7f52b2344c1b70b54846990fde7bcb44",
+      "size": 14834
+    },
+    {
+      "path": "opt/cango-empire-website/workflows/n8n_Hacks.json",
+      "sha256": "07036799dab24920c66f742c7c6f21467912b5e9ecbebf720ffa168cb6f27165",
+      "size": 40328
+    },
+    {
+      "path": "opt/cango-empire-website/workflows-cards.html",
+      "sha256": "73dc3270295415f761ad78c5368f6daf3a20ab033e16d36af2c96f379ad23d5e",
+      "size": 285571
+    },
+    {
+      "path": "opt/cango-empire-website/workflows-meta.json",
+      "sha256": "ae8996893e262893f490599d243bcbe44f30142a29aa4db3d70eb90f07313441",
+      "size": 221
+    },
+    {
+      "path": "opt/cango-empire-website/workflows.json",
+      "sha256": "7e0ca1c99784522ce2456188847b0148269c2dd8046cfb13e53cbebe81eee1d5",
+      "size": 2186641
+    },
+    {
+      "path": "root/docker-compose.yml",
+      "sha256": "6b554e66d0f8be801944bfbd24a9bf5d2d2747ba28c5ca034bf1134b126d4eb4",
+      "size": 1181
+    }
+  ]
+}
